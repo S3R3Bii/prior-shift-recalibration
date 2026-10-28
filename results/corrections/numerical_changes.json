@@ -1,0 +1,14 @@
+{
+  "status": "CORRECTED_RETROSPECTIVE",
+  "selected_alphas_changed": 0,
+  "model_runs": 10,
+  "maximum_metric_changes": {
+    "log_loss": 3.5562429001601004e-08,
+    "brier_mse": 1.3492543617099617e-08,
+    "decision_loss": 0.0,
+    "recall": 0.0,
+    "review_fraction": 0.0
+  },
+  "all_decision_cost_recall_review_fractions_unchanged": true,
+  "no_test_claim": "Previously inspected test reused after numerical correction, not a new confirmatory test"
+}

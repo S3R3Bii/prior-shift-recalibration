@@ -56,6 +56,12 @@ def check_fit(fit, x, y, w, alpha, counters, bounds=None):
     values = []
     for attempt in fit["attempts"]:
         beta = np.array(attempt["coefficients"])
+        if bounds is not None:
+            assert all(
+                lower <= value <= upper for value, (lower, upper) in zip(beta, bounds)
+            )
+        if "alpha" in fit:
+            assert fit["alpha"] == alpha
         eta = vector_logits(x, beta)
         p = expit(eta)
         value = (
@@ -77,7 +83,46 @@ def check_fit(fit, x, y, w, alpha, counters, bounds=None):
             if bounds
             else float(np.max(abs(gradient)))
         )
-        assert residual <= 1e-6, residual
+        assert residual <= 1e-11, residual
+        assert attempt["newton_trace"] and len(attempt["newton_trace"]) <= 21
+        points = [attempt["lbfgsb"]]
+        for correction in attempt["newton_trace"]:
+            points.append(correction)
+            points.extend(correction["line_trials"])
+            assert len(correction["line_trials"]) <= 20
+            accepted = [
+                trial for trial in correction["line_trials"] if trial["accepted"]
+            ]
+            assert len(accepted) <= 1
+            if accepted:
+                assert accepted[0]["objective"] <= correction["objective"] + 2e-15
+                assert (
+                    accepted[0]["projected_gradient_inf"]
+                    < correction["projected_gradient_inf"]
+                )
+        for point in points:
+            point_beta = np.array(point["coefficients"])
+            point_eta = vector_logits(x, point_beta)
+            point_value = (
+                loss(point_eta, y, w)
+                + alpha * math.fsum(float(c) ** 2 for c in point_beta[:-1]) / 2
+            )
+            close(point_value, point["objective"])
+            point_gradient = x.T @ (w * (expit(point_eta) - y))
+            point_gradient[:-1] += alpha * point_beta[:-1]
+            point_residual = (
+                kkt_residual(point_beta, point_gradient, bounds)
+                if bounds
+                else max(abs(point_gradient))
+            )
+            if "projected_gradient_inf" in point:
+                close(point_residual, point["projected_gradient_inf"])
+            if bounds is not None:
+                assert all(
+                    lower <= v <= upper for v, (lower, upper) in zip(point_beta, bounds)
+                )
+        close(attempt["newton_trace"][-1]["coefficients"], beta)
+        assert attempt["newton_trace"][-1]["projected_gradient_inf"] <= 1e-12
         minimum_eigenvalue = float(np.linalg.eigvalsh((hessian + hessian.T) / 2)[0])
         assert minimum_eigenvalue >= -1e-10, minimum_eigenvalue
         direction = np.arange(1, len(beta) + 1, dtype=float)
@@ -97,6 +142,7 @@ def check_fit(fit, x, y, w, alpha, counters, bounds=None):
         close(finite, float(gradient @ direction), atol=1e-5, rtol=1e-5)
         values.append(value)
         counters["optimizer_attempts"] += 1
+        counters["optimizer_trace_points"] += len(points)
         counters["maximum_kkt_residual"] = max(
             counters["maximum_kkt_residual"], residual
         )
@@ -212,6 +258,7 @@ def check_bootstrap(record, seed, frame, odds, refit, root):
 def verify(root, stage):
     counters = {
         "optimizer_attempts": 0,
+        "optimizer_trace_points": 0,
         "maximum_kkt_residual": 0.0,
         "minimum_hessian_eigenvalue": float("inf"),
         "validation_predictions": 0,
@@ -290,6 +337,14 @@ def verify(root, stage):
             model = json.loads(
                 (root / f"results/models/{record['id']}_{seed}.json").read_bytes()
             )
+            assert [c["alpha"] for c in model["candidates"]] == [
+                0.0001,
+                0.001,
+                0.01,
+                0.1,
+                1.0,
+                10.0,
+            ]
             fit = part == "fit"
             val = part == "validation"
             cal = part == "calibration"

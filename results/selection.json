@@ -1,0 +1,72 @@
+[
+  {
+    "dataset": 44125,
+    "seed": 101,
+    "selected_alpha": 0.001,
+    "validation_log_loss": 0.5054121292352055,
+    "boundary_alpha": false
+  },
+  {
+    "dataset": 44125,
+    "seed": 202,
+    "selected_alpha": 0.001,
+    "validation_log_loss": 0.510351127403915,
+    "boundary_alpha": false
+  },
+  {
+    "dataset": 44125,
+    "seed": 303,
+    "selected_alpha": 0.0001,
+    "validation_log_loss": 0.5019128864064888,
+    "boundary_alpha": true
+  },
+  {
+    "dataset": 44125,
+    "seed": 404,
+    "selected_alpha": 0.001,
+    "validation_log_loss": 0.49324938804898677,
+    "boundary_alpha": false
+  },
+  {
+    "dataset": 44125,
+    "seed": 505,
+    "selected_alpha": 0.0001,
+    "validation_log_loss": 0.48049135716144076,
+    "boundary_alpha": true
+  },
+  {
+    "dataset": 44128,
+    "seed": 101,
+    "selected_alpha": 0.001,
+    "validation_log_loss": 0.25879446130754075,
+    "boundary_alpha": false
+  },
+  {
+    "dataset": 44128,
+    "seed": 202,
+    "selected_alpha": 0.0001,
+    "validation_log_loss": 0.24487512629481628,
+    "boundary_alpha": true
+  },
+  {
+    "dataset": 44128,
+    "seed": 303,
+    "selected_alpha": 0.0001,
+    "validation_log_loss": 0.25106996324193687,
+    "boundary_alpha": true
+  },
+  {
+    "dataset": 44128,
+    "seed": 404,
+    "selected_alpha": 0.0001,
+    "validation_log_loss": 0.26201223127712875,
+    "boundary_alpha": true
+  },
+  {
+    "dataset": 44128,
+    "seed": 505,
+    "selected_alpha": 0.0001,
+    "validation_log_loss": 0.2771847511101881,
+    "boundary_alpha": true
+  }
+]

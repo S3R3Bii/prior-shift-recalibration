@@ -3,8 +3,13 @@
   "formatter": "Black25.1.0 private tool",
   "files": [
     {
+      "path": "src/check_reproduction.py",
+      "sha256": "4b55fa61bd3eb7fdb128bff81f06e7ed3f46124c89654146646c767c920c996c",
+      "exact_ast_equal": true
+    },
+    {
       "path": "src/experiment.py",
-      "sha256": "613f8e31871e0b031413fe14138b8c628fd026f17ed30823fbf609aa5224378d",
+      "sha256": "4d64b97a6fae98a3848be3d4eed9fde3461c26fc99e2a68c11d5fb7746d3e775",
       "exact_ast_equal": true
     },
     {
@@ -13,13 +18,23 @@
       "exact_ast_equal": true
     },
     {
+      "path": "src/figures.py",
+      "sha256": "179bd4b246d51ff1c2625657c523a5b88d40d83e256a1f8a7fdbf9aec282efaf",
+      "exact_ast_equal": true
+    },
+    {
       "path": "src/model.py",
-      "sha256": "b345323593fa88324a73be5633ceea804d8b0d332f399d76653d203949aca12a",
+      "sha256": "7ed4f4376e41c6ec34cbf872f0e8d1e0e0cbdd4a754a1d9f5896af6710551ab4",
+      "exact_ast_equal": true
+    },
+    {
+      "path": "src/summarize.py",
+      "sha256": "2edf719fc5938ecd03143f8ece7af85e4c6db14f53ffa408299c752316ab1c5c",
       "exact_ast_equal": true
     },
     {
       "path": "src/verify.py",
-      "sha256": "cf97c60923287669da4b24eb415b0edd98ede0a4e910b957c4b802e52d585e66",
+      "sha256": "a995c8d449a3aa6245f856e397887a29ba8549862eb28281d4ee45c741344387",
       "exact_ast_equal": true
     },
     {
@@ -28,8 +43,13 @@
       "exact_ast_equal": true
     },
     {
+      "path": "src/verify_summary.py",
+      "sha256": "42398e635697768cb845fed6b82d7b1e2d489eb6fea53ba3950fcd431fea0647",
+      "exact_ast_equal": true
+    },
+    {
       "path": "tests/test_contracts.py",
-      "sha256": "342e0bd015b6732ad208aa571aba7b538a1fa5fce6754fcf59187207418210ce",
+      "sha256": "773f5dea1022a2f000b81c05276c7db07e4676e95ed3aa7b1027693bc07b1f5c",
       "exact_ast_equal": true
     }
   ]
