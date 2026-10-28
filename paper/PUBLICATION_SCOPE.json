@@ -1,0 +1,13 @@
+{
+  "scope": "independent-program-study",
+  "study_id": "47",
+  "formal_submission_target": false,
+  "authorization": "Owner explicitly authorized GitHub publication of these study manuscripts on 28 October 2026; formal-publication projects including Azure optimization remain excluded.",
+  "public_files": {
+    "paper/main.tex": "e0569a72755c40437201a74bd5faafe6cbba09786561048090ddc77f0b4145a0",
+    "paper/manuscript.pdf": "bcedd59eb2d2f1eb281ca92d90269c0a8d70ca623aaf7ba23783130729bbc6ee",
+    "paper/images/rare_probability_scores.pdf": "fab575925373166725754c95a11e13db1089852c4fd499930880535238b51a0f",
+    "paper/images/paired_refit_gap.pdf": "08d62e578393ed0a6dfd69edcc884086e96a7716b93984eb0c0dc384531c7357",
+    "paper/images/decision_loss_tradeoff.pdf": "e860c076a785fe09011a5b7db2da7b5813908b56f885ed71b09a7ddcda70fd83"
+  }
+}

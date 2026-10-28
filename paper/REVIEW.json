@@ -1,0 +1,21 @@
+{
+  "timestamp_utc": "2026-10-28T22:44:54.153902+00:00",
+  "status": "PASS_SCOPED_GITHUB_EDITION",
+  "grade": 4,
+  "pages": 7,
+  "criteria": {
+    "correctness": "PASS: all numerical tokens match the reviewed source and all referenced figure bytes match",
+    "rendered_layout": "PASS: all current pages inspected in rendered review sheets; no clipped text, overlap or missing figures observed",
+    "privacy": "PASS: source and extracted PDF text scanned; no attachments or JavaScript; only explicit reviewed files included",
+    "scope": "PASS: independent study only; not peer reviewed; formal-publication projects excluded"
+  },
+  "base_analysis_commit": "95677c5a0d0623af63f3187657b40f5755b4e9d8",
+  "public_files_sha256": {
+    "paper/main.tex": "e0569a72755c40437201a74bd5faafe6cbba09786561048090ddc77f0b4145a0",
+    "paper/manuscript.pdf": "bcedd59eb2d2f1eb281ca92d90269c0a8d70ca623aaf7ba23783130729bbc6ee",
+    "paper/images/rare_probability_scores.pdf": "fab575925373166725754c95a11e13db1089852c4fd499930880535238b51a0f",
+    "paper/images/paired_refit_gap.pdf": "08d62e578393ed0a6dfd69edcc884086e96a7716b93984eb0c0dc384531c7357",
+    "paper/images/decision_loss_tradeoff.pdf": "e860c076a785fe09011a5b7db2da7b5813908b56f885ed71b09a7ddcda70fd83"
+  },
+  "limitations": "This is a publication-format check. It reuses unchanged scientific evidence and does not establish peer review, novelty, deployment or universal secret detection."
+}

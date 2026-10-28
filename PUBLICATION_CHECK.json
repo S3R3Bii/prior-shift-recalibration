@@ -1,19 +1,19 @@
 {
-  "timestamp_utc": "2026-10-28T21:27:11.766551+00:00",
+  "timestamp_utc": "2026-10-28T22:48:39.243309+00:00",
   "status": "PASS_BOUNDED_SCAN",
-  "files_checked": 69,
-  "scope": "Intended tracked/nonignored files; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
+  "files_checked": 77,
+  "scope": "Exact staged Git index bytes; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
-    ".gitattributes": "d1b79420c70b70a87f099fd3cd222cc20ad5137760869c54b28cfbd389aa66e1",
+    ".gitattributes": "e35dfdaa8313ae6acc0bca660ec767ea1997c135cbd284b55c99232440096792",
     ".github/workflows/verify.yml": "f28755da4e9cc675d1e42e8d5d18c47522e4ce3d29b14f44dae614f5031cfd37",
-    ".gitignore": "64981e3fc99b209c17dc8b8d6a6ed8dcb7bf3b692a4d982cff4d39664c40d964",
+    ".gitignore": "c38d414403306bc91f256d0257cf31e8921e72f163c60b3c18db12d2327400da",
     "CODE_STYLE_CHECK.json": "8b11527be11799b17c6aaf1e0f1963cd25b5d4b0a15e2196e8e9359d8ea34cad",
     "DATA_ATTRIBUTION.md": "781b02c774e11a15f750d678d5adf162abdf6700b0b3a2270cc30300816e7051",
     "LICENSE": "379bb05737033d3c2e9dd1456688d94a3c60654960f510fd173fb9d9e59f3f25",
-    "MODEL_VALIDATION_STANDARD.md": "23f24302cefcf1ddf374c03236ce5ffc85943fdaece43f58826ddfe5b0edf8a4",
+    "MODEL_VALIDATION_STANDARD.md": "40f9cab5117e572ed4727620e8952269c40e3118c117d6c0ea438aead3195c01",
     "PROTOCOL.md": "6e99d2fe043bf7703efb54e4ff3f943ad4393be820db2dd3a642785637ba2601",
-    "README.md": "a669f7740639c28907f00a6fd15a70e113f48ca6f01cdc4ee5fa23f7025c1967",
+    "README.md": "a269444bf7acb52e4d4bc53f21cdb486f4e0eef05d9b6d71689fc3fce2f2d37b",
     "data/manifest.json": "ab107e639ecdeb83bda7e24ecfa6b388b87349bfcc696f18ee273ed129fa2f1d",
     "data/metadata/44125.json": "da0c032d7a6a5675fa473dabe80fd4dbb0667ce9416e19c089ade4360dc974a9",
     "data/metadata/44128.json": "14b60974b1090a32e2013df300a47a9dbf16551076e7e74d5529e85fe65e84a0",
@@ -25,6 +25,14 @@
     "figures/paired_refit_gap.png": "581cf14c06294e1e150271a8902affba09c0416429f67950c4c7a54c720580e4",
     "figures/rare_probability_scores.pdf": "fab575925373166725754c95a11e13db1089852c4fd499930880535238b51a0f",
     "figures/rare_probability_scores.png": "3c1c5daebfe41435778fc2a636222706bfd414d649f59857e5c5389b7dc68adf",
+    "paper/PUBLICATION_SCOPE.json": "94849b23a262daea09fc92d72dae91960894de2352d3c112159b2544a418528f",
+    "paper/README.md": "fe35a998ae64d9957d61636b1e114405beb014642aa3457fb1808edff2473bc2",
+    "paper/REVIEW.json": "3cc709888665422769d41b6d4193d9fb2aff43e58ed3f719079597ee4538f30f",
+    "paper/images/decision_loss_tradeoff.pdf": "e860c076a785fe09011a5b7db2da7b5813908b56f885ed71b09a7ddcda70fd83",
+    "paper/images/paired_refit_gap.pdf": "08d62e578393ed0a6dfd69edcc884086e96a7716b93984eb0c0dc384531c7357",
+    "paper/images/rare_probability_scores.pdf": "fab575925373166725754c95a11e13db1089852c4fd499930880535238b51a0f",
+    "paper/main.tex": "e0569a72755c40437201a74bd5faafe6cbba09786561048090ddc77f0b4145a0",
+    "paper/manuscript.pdf": "bcedd59eb2d2f1eb281ca92d90269c0a8d70ca623aaf7ba23783130729bbc6ee",
     "requirements.txt": "45884edce483ba9b9ac57d82dcc5f954ad4691c742013b6d778e83d1f9195380",
     "results/INDEPENDENT_SOURCE_CHECK.json": "c78dc3468b1ea5196181c91bf9da1b81f2d2497a163c01c297c0c690c2cfe675",
     "results/INDEPENDENT_SUMMARY_CHECK.json": "7f2be7659f46a77e6e7fc32f09a4f3c1d34711082612d0563c0ed241899a8175",
@@ -75,5 +83,12 @@
     "tests/test_contracts.py": "773f5dea1022a2f000b81c05276c7db07e4676e95ed3aa7b1027693bc07b1f5c"
   },
   "raw_source_members_excluded": true,
-  "manuscripts_excluded": true
+  "unapproved_manuscripts_excluded": true,
+  "approved_independent_paper_files": [
+    "paper/images/decision_loss_tradeoff.pdf",
+    "paper/images/paired_refit_gap.pdf",
+    "paper/images/rare_probability_scores.pdf",
+    "paper/main.tex",
+    "paper/manuscript.pdf"
+  ]
 }

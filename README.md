@@ -1,5 +1,7 @@
 # Can a cheap probability correction replace a coefficient refit?
 
+[Research manuscript: PDF and LaTeX](paper/README.md)
+
 ![Known-prior scores across all six declared methods](figures/rare_probability_scores.png)
 
 When positive events become rare, a probability adjustment can rescue an existing score without refitting its feature coefficients. This study asks whether that adjustment also matches a coefficient refit—and whether better probability scores produce useful alerts.
@@ -73,4 +75,4 @@ To reacquire and reconcile original downloads, run `python src/fetch.py` then `p
 
 [Saerens, Latinne and Decaestecker (2002)](https://doi.org/10.1162/089976602753284446) describe output adjustment under new priors, including unknown-prior estimation; this known-q experiment does not reproduce their EM procedure. [Alexandari, Kundaje and Shrikumar (2020)](https://proceedings.mlr.press/v119/alexandari20a.html) examine calibration and label-shift adaptation. [SciPy 1.15.3](https://docs.scipy.org/doc/scipy-1.15.3/reference/optimize.minimize-lbfgsb.html) documents the solver stopping rules. This is an independently executed comparison, not a claimed novel method or established research gap.
 
-**Visibility:** original code, permitted benchmark derivatives, figures and reproducible results are public. Source papers, manuscript drafts, credentials and private records stay out of Git history. This example demonstrates research work and does not imply production deployment or employer experience.
+**Visibility:** original code, permitted benchmark derivatives, figures and reproducible results are public. Source papers, credentials and private records stay out of Git history. The independent [research manuscript](paper/README.md) is shared on GitHub and has not been peer reviewed. This example demonstrates research work and does not imply production deployment or employer experience.
