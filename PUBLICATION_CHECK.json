@@ -1,12 +1,12 @@
 {
-  "timestamp_utc": "2026-10-28T21:22:34.157488+00:00",
+  "timestamp_utc": "2026-10-28T21:27:11.766551+00:00",
   "status": "PASS_BOUNDED_SCAN",
   "files_checked": 69,
   "scope": "Intended tracked/nonignored files; decompressed text; forbidden paths/extensions, high-confidence key and private machine path patterns; local Markdown links. Image/PDF contents require separate visual/source review. This is not universal secret detection.",
   "findings": [],
   "sha256": {
     ".gitattributes": "d1b79420c70b70a87f099fd3cd222cc20ad5137760869c54b28cfbd389aa66e1",
-    ".github/workflows/verify.yml": "210e91dd813af9f27880c4d75bf0b1c0ce48ae3dc891a48e73f797347c334a98",
+    ".github/workflows/verify.yml": "f28755da4e9cc675d1e42e8d5d18c47522e4ce3d29b14f44dae614f5031cfd37",
     ".gitignore": "64981e3fc99b209c17dc8b8d6a6ed8dcb7bf3b692a4d982cff4d39664c40d964",
     "CODE_STYLE_CHECK.json": "8b11527be11799b17c6aaf1e0f1963cd25b5d4b0a15e2196e8e9359d8ea34cad",
     "DATA_ATTRIBUTION.md": "781b02c774e11a15f750d678d5adf162abdf6700b0b3a2270cc30300816e7051",
