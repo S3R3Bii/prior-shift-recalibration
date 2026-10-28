@@ -1,0 +1,65 @@
+{
+  "status": "PASS",
+  "full_model_runs_refitted": 10,
+  "optimizer_attempts_refitted": 340,
+  "validation_prediction_rows": 71706,
+  "test_prediction_rows": 386112,
+  "test_metric_rows": 240,
+  "bootstrap_draws": 10000,
+  "absolute_tolerance": 1e-07,
+  "relative_tolerance": 1e-09,
+  "end_to_end_seconds": 36.378059900016524,
+  "timing_scope": "Fresh directory fits, numerical certificates, all prediction and metric comparisons, summaries and figures; excludes raw retrieval, dependency install and private manuscript",
+  "commands": [
+    {
+      "script": "experiment.py",
+      "args": [
+        "train"
+      ],
+      "seconds": 7.0847313000122085,
+      "exit_code": 0
+    },
+    {
+      "script": "verify.py",
+      "args": [
+        "train"
+      ],
+      "seconds": 6.447473999985959,
+      "exit_code": 0
+    },
+    {
+      "script": "experiment.py",
+      "args": [
+        "test"
+      ],
+      "seconds": 5.633538599999156,
+      "exit_code": 0
+    },
+    {
+      "script": "verify.py",
+      "args": [
+        "test"
+      ],
+      "seconds": 13.073073000006843,
+      "exit_code": 0
+    },
+    {
+      "script": "summarize.py",
+      "args": [],
+      "seconds": 0.5548690999858081,
+      "exit_code": 0
+    },
+    {
+      "script": "verify_summary.py",
+      "args": [],
+      "seconds": 0.10338500002399087,
+      "exit_code": 0
+    },
+    {
+      "script": "figures.py",
+      "args": [],
+      "seconds": 1.6187204999732785,
+      "exit_code": 0
+    }
+  ]
+}

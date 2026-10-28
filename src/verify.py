@@ -56,6 +56,12 @@ def check_fit(fit, x, y, w, alpha, counters, bounds=None):
     values = []
     for attempt in fit["attempts"]:
         beta = np.array(attempt["coefficients"])
+        if bounds is not None:
+            assert all(
+                lower <= value <= upper for value, (lower, upper) in zip(beta, bounds)
+            )
+        if "alpha" in fit:
+            assert fit["alpha"] == alpha
         eta = vector_logits(x, beta)
         p = expit(eta)
         value = (
@@ -290,6 +296,14 @@ def verify(root, stage):
             model = json.loads(
                 (root / f"results/models/{record['id']}_{seed}.json").read_bytes()
             )
+            assert [c["alpha"] for c in model["candidates"]] == [
+                0.0001,
+                0.001,
+                0.01,
+                0.1,
+                1.0,
+                10.0,
+            ]
             fit = part == "fit"
             val = part == "validation"
             cal = part == "calibration"
