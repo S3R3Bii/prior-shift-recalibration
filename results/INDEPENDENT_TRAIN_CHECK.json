@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "stage": "train",
+  "model_hashes": {
+    "results/models/44125_101.json": "4b4562dd28263470a6f4d07132442e82a8d2f0dcdb11466d24fb52c55b718d36",
+    "results/models/44125_202.json": "d93cab4a99ecc802ac7cd75a83d31594a8c4455624b799225203ab48c69ba51b",
+    "results/models/44125_303.json": "3e91ab14d39abc1dd84895c15bce99db5cc1d5cf4b5ee4a0b6a7d5ef6ddb36dc",
+    "results/models/44125_404.json": "698633595b1d890860d4e87b72b8175cb56910bfebf40e636df152ec917e13e5",
+    "results/models/44125_505.json": "d60ae4ff6536afac12f27eca66af6c44545724fe07e0094dfd821105f2155e0a",
+    "results/models/44128_101.json": "9449f432845bb5452d7483a8b2157582b937c25ac98e56479e9323936e249fee",
+    "results/models/44128_202.json": "1c68026b35fe2edd3b5bae6e355fff0f79ffd3643b79b8c058ded2a78f97451c",
+    "results/models/44128_303.json": "0496e443ea3f3d2650bdde02e53d173ba88f644904239fe0d2d9e9081a9a93b2",
+    "results/models/44128_404.json": "09c87bd182fd7950bda452d7ca85879de415efc15c98aaa7b4f7c9cc0718d581",
+    "results/models/44128_505.json": "f9f5a6876fb6f7010ea9927531a427332ecebc12583c89b7236f9ac1e3fa393c"
+  },
+  "independent_methods": "Scalar softplus/fsum, matrix products, directional derivatives, Hessian eigenvalues, SQL group checks and direct resampling",
+  "optimizer_attempts": 340,
+  "maximum_kkt_residual": 2.566325772862532e-07,
+  "minimum_hessian_eigenvalue": 0.00014762897631974333,
+  "validation_predictions": 71706,
+  "test_predictions": 0,
+  "test_metric_rows": 0,
+  "bootstrap_draws": 0
+}
