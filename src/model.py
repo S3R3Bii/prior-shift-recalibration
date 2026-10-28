@@ -87,12 +87,19 @@ def projected_residual(beta, gradient, bounds=None):
 
 
 def newton_polish(beta, x, y, w, alpha, bounds=None):
-    beta = beta.copy(); trace = []
+    beta = beta.copy()
+    trace = []
     for iteration in range(21):
         value, gradient = objective(beta, x, y, w, alpha)
         residual = projected_residual(beta, gradient, bounds)
         norm = float(np.max(abs(residual)))
-        entry = {"iteration": iteration, "coefficients": beta.tolist(), "objective": value, "projected_gradient_inf": norm, "line_trials": []}
+        entry = {
+            "iteration": iteration,
+            "coefficients": beta.tolist(),
+            "objective": value,
+            "projected_gradient_inf": norm,
+            "line_trials": [],
+        }
         trace.append(entry)
         if norm <= 1e-12:
             return beta, trace
@@ -102,21 +109,37 @@ def newton_polish(beta, x, y, w, alpha, bounds=None):
         hessian = x.T @ (x * (w * p * (1 - p))[:, None])
         hessian[np.arange(len(beta) - 1), np.arange(len(beta) - 1)] += alpha
         free = np.where(residual != 0)[0]
-        step = np.zeros(len(beta)); step[free] = np.linalg.solve(hessian[np.ix_(free, free)], gradient[free])
+        step = np.zeros(len(beta))
+        step[free] = np.linalg.solve(hessian[np.ix_(free, free)], gradient[free])
         accepted = False
         for halving in range(20):
-            proposal = beta - (0.5 ** halving) * step
+            proposal = beta - (0.5**halving) * step
             if bounds is not None:
-                proposal = np.clip(proposal, [b[0] for b in bounds], [b[1] for b in bounds])
+                proposal = np.clip(
+                    proposal, [b[0] for b in bounds], [b[1] for b in bounds]
+                )
             next_value, next_gradient = objective(proposal, x, y, w, alpha)
-            next_norm = float(np.max(abs(projected_residual(proposal, next_gradient, bounds))))
+            next_norm = float(
+                np.max(abs(projected_residual(proposal, next_gradient, bounds)))
+            )
             accepted = next_value <= value + 2e-15 and next_norm < norm
-            entry["line_trials"].append({"halving": halving, "coefficients": proposal.tolist(), "objective": next_value, "projected_gradient_inf": next_norm, "accepted": bool(accepted)})
+            entry["line_trials"].append(
+                {
+                    "halving": halving,
+                    "coefficients": proposal.tolist(),
+                    "objective": next_value,
+                    "projected_gradient_inf": next_norm,
+                    "accepted": bool(accepted),
+                }
+            )
             if accepted:
-                beta = proposal; break
+                beta = proposal
+                break
         if not accepted:
             break
-    raise OptimizationFailure({"method": "newton_polish", "alpha": alpha, "bounds": bounds, "trace": trace})
+    raise OptimizationFailure(
+        {"method": "newton_polish", "alpha": alpha, "bounds": bounds, "trace": trace}
+    )
 
 
 def solve_ridge(x, y, w, alpha):
@@ -137,14 +160,22 @@ def solve_ridge(x, y, w, alpha):
             options=OPTIONS,
         )
         original_value, original_grad = objective(result.x, x, y, w, alpha)
-        beta, trace = newton_polish(result.x, x, y, w, alpha) if result.success else (result.x, [])
+        beta, trace = (
+            newton_polish(result.x, x, y, w, alpha)
+            if result.success
+            else (result.x, [])
+        )
         value, grad = objective(beta, x, y, w, alpha)
         attempts.append(
             {
                 "start_id": index,
                 "start": start.tolist(),
                 "coefficients": beta.tolist(),
-                "lbfgsb": {"coefficients": result.x.tolist(), "objective": original_value, "gradient_inf": float(np.max(abs(original_grad)))},
+                "lbfgsb": {
+                    "coefficients": result.x.tolist(),
+                    "objective": original_value,
+                    "gradient_inf": float(np.max(abs(original_grad))),
+                },
                 "newton_trace": trace,
                 "objective": value,
                 "gradient_inf": float(np.max(np.abs(grad))),
@@ -206,14 +237,22 @@ def solve_platt(eta, y, w, odds_offset):
             options=OPTIONS,
         )
         original_value, original_grad = objective(result.x, x, y, w, 0.0)
-        beta, trace = newton_polish(result.x, x, y, w, 0.0, [(0, 5), (-20, 20)]) if result.success else (result.x, [])
+        beta, trace = (
+            newton_polish(result.x, x, y, w, 0.0, [(0, 5), (-20, 20)])
+            if result.success
+            else (result.x, [])
+        )
         value, grad = objective(beta, x, y, w, 0.0)
         attempts.append(
             {
                 "start_id": index,
                 "start": list(start),
                 "coefficients": beta.tolist(),
-                "lbfgsb": {"coefficients": result.x.tolist(), "objective": original_value, "gradient_inf": float(np.max(abs(original_grad)))},
+                "lbfgsb": {
+                    "coefficients": result.x.tolist(),
+                    "objective": original_value,
+                    "gradient_inf": float(np.max(abs(original_grad))),
+                },
                 "newton_trace": trace,
                 "objective": value,
                 "gradient": grad.tolist(),

@@ -81,9 +81,10 @@ class Contracts(unittest.TestCase):
 
     def test_newton_polish_preserves_objective_and_certifies_stationarity(self):
         x = np.column_stack((np.linspace(-2, 2, 100), np.ones(100)))
-        y = (np.arange(100) % 3 == 0).astype(int); w = model.weights(y)
-        beta, trace = model.newton_polish(np.array([.1, -.2]), x, y, w, .001)
-        self.assertLessEqual(max(abs(model.objective(beta, x, y, w, .001)[1])), 1e-12)
+        y = (np.arange(100) % 3 == 0).astype(int)
+        w = model.weights(y)
+        beta, trace = model.newton_polish(np.array([0.1, -0.2]), x, y, w, 0.001)
+        self.assertLessEqual(max(abs(model.objective(beta, x, y, w, 0.001)[1])), 1e-12)
         self.assertLessEqual(trace[-1]["objective"], trace[0]["objective"] + 2e-15)
         self.assertTrue(all(point["line_trials"] for point in trace[:-1]))
 

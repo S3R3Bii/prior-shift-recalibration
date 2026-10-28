@@ -8,7 +8,7 @@
   "bootstrap_draws": 10000,
   "absolute_tolerance": 1e-07,
   "relative_tolerance": 1e-09,
-  "end_to_end_seconds": 36.378059900016524,
+  "end_to_end_seconds": 42.46400049998192,
   "timing_scope": "Fresh directory fits, numerical certificates, all prediction and metric comparisons, summaries and figures; excludes raw retrieval, dependency install and private manuscript",
   "commands": [
     {
@@ -16,7 +16,7 @@
       "args": [
         "train"
       ],
-      "seconds": 7.0847313000122085,
+      "seconds": 7.94007650000276,
       "exit_code": 0
     },
     {
@@ -24,7 +24,7 @@
       "args": [
         "train"
       ],
-      "seconds": 6.447473999985959,
+      "seconds": 8.685259899997618,
       "exit_code": 0
     },
     {
@@ -32,7 +32,7 @@
       "args": [
         "test"
       ],
-      "seconds": 5.633538599999156,
+      "seconds": 5.79132820002269,
       "exit_code": 0
     },
     {
@@ -40,25 +40,25 @@
       "args": [
         "test"
       ],
-      "seconds": 13.073073000006843,
+      "seconds": 15.692375499987975,
       "exit_code": 0
     },
     {
       "script": "summarize.py",
       "args": [],
-      "seconds": 0.5548690999858081,
+      "seconds": 0.5835199999855831,
       "exit_code": 0
     },
     {
       "script": "verify_summary.py",
       "args": [],
-      "seconds": 0.10338500002399087,
+      "seconds": 0.13145099999383092,
       "exit_code": 0
     },
     {
       "script": "figures.py",
       "args": [],
-      "seconds": 1.6187204999732785,
+      "seconds": 1.7131983999861404,
       "exit_code": 0
     }
   ]

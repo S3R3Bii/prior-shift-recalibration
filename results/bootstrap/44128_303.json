@@ -1659,7006 +1659,7006 @@
       "draw": 0,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0012704926626570634,
+      "difference": -0.0012705044995598783,
       "valid": true
     },
     {
       "draw": 1,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.001589047124911334,
+      "difference": -0.001589058805853223,
       "valid": true
     },
     {
       "draw": 2,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.002098681699367721,
+      "difference": -0.002098689301055698,
       "valid": true
     },
     {
       "draw": 3,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0005455744103506735,
+      "difference": -0.0005455859765267296,
       "valid": true
     },
     {
       "draw": 4,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.0039010834069458573,
+      "difference": -0.0039010915152258986,
       "valid": true
     },
     {
       "draw": 5,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.004168052143898551,
+      "difference": -0.004168064150055,
       "valid": true
     },
     {
       "draw": 6,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.002913348892886685,
+      "difference": -0.002913356410575684,
       "valid": true
     },
     {
       "draw": 7,
       "n_negative": 890,
       "n_positive": 759,
-      "difference": -0.00020419839127854618,
+      "difference": -0.0002042031250072961,
       "valid": true
     },
     {
       "draw": 8,
       "n_negative": 884,
       "n_positive": 765,
-      "difference": -0.0026705933412453473,
+      "difference": -0.002670604973870434,
       "valid": true
     },
     {
       "draw": 9,
       "n_negative": 804,
       "n_positive": 845,
-      "difference": -0.003676660348723727,
+      "difference": -0.003676677578127857,
       "valid": true
     },
     {
       "draw": 10,
       "n_negative": 819,
       "n_positive": 830,
-      "difference": -0.0023951691739347407,
+      "difference": -0.0023951766665105127,
       "valid": true
     },
     {
       "draw": 11,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.0025735910890210874,
+      "difference": -0.0025735972877292644,
       "valid": true
     },
     {
       "draw": 12,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0012456632472359107,
+      "difference": -0.001245664050027009,
       "valid": true
     },
     {
       "draw": 13,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.002031812837997786,
+      "difference": -0.002031822389395382,
       "valid": true
     },
     {
       "draw": 14,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.0035930318577956917,
+      "difference": -0.0035930438008940665,
       "valid": true
     },
     {
       "draw": 15,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.002891326721265139,
+      "difference": -0.002891339312190554,
       "valid": true
     },
     {
       "draw": 16,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.004751678315257772,
+      "difference": -0.004751704039437967,
       "valid": true
     },
     {
       "draw": 17,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.0004889086356625573,
+      "difference": -0.0004889237542497146,
       "valid": true
     },
     {
       "draw": 18,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0036869085195862282,
+      "difference": -0.0036869173976775966,
       "valid": true
     },
     {
       "draw": 19,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.0016631869783757874,
+      "difference": -0.001663196542763611,
       "valid": true
     },
     {
       "draw": 20,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.0029846295409267365,
+      "difference": -0.002984634000110334,
       "valid": true
     },
     {
       "draw": 21,
       "n_negative": 820,
       "n_positive": 829,
-      "difference": -0.00138623635411306,
+      "difference": -0.0013862401568211715,
       "valid": true
     },
     {
       "draw": 22,
       "n_negative": 877,
       "n_positive": 772,
-      "difference": -0.0015299022839104935,
+      "difference": -0.0015299096686608603,
       "valid": true
     },
     {
       "draw": 23,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.000369537431183782,
+      "difference": -0.0003695456496300351,
       "valid": true
     },
     {
       "draw": 24,
       "n_negative": 795,
       "n_positive": 854,
-      "difference": -0.0005438226428780147,
+      "difference": -0.0005438311945833245,
       "valid": true
     },
     {
       "draw": 25,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0008091007569196219,
+      "difference": -0.000809108758730732,
       "valid": true
     },
     {
       "draw": 26,
       "n_negative": 880,
       "n_positive": 769,
-      "difference": -0.004735191176576705,
+      "difference": -0.004735205225791288,
       "valid": true
     },
     {
       "draw": 27,
       "n_negative": 870,
       "n_positive": 779,
-      "difference": -0.003442621305571678,
+      "difference": -0.0034426334956583005,
       "valid": true
     },
     {
       "draw": 28,
       "n_negative": 870,
       "n_positive": 779,
-      "difference": -0.0023008229037501777,
+      "difference": -0.0023008278672927303,
       "valid": true
     },
     {
       "draw": 29,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0022530545863621134,
+      "difference": -0.0022530630612510017,
       "valid": true
     },
     {
       "draw": 30,
       "n_negative": 820,
       "n_positive": 829,
-      "difference": -0.00017014919644722467,
+      "difference": -0.00017016630467094735,
       "valid": true
     },
     {
       "draw": 31,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.0006906611166776149,
+      "difference": -0.0006906760375946043,
       "valid": true
     },
     {
       "draw": 32,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": -0.001536489325513675,
+      "difference": -0.0015365024519000793,
       "valid": true
     },
     {
       "draw": 33,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0017217737470451295,
+      "difference": -0.0017217828291500076,
       "valid": true
     },
     {
       "draw": 34,
       "n_negative": 870,
       "n_positive": 779,
-      "difference": -0.00011810448193675405,
+      "difference": -0.0001181162177981141,
       "valid": true
     },
     {
       "draw": 35,
       "n_negative": 795,
       "n_positive": 854,
-      "difference": -0.00448345849115752,
+      "difference": -0.004483480865701424,
       "valid": true
     },
     {
       "draw": 36,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.004591296167378667,
+      "difference": -0.0045913030607616905,
       "valid": true
     },
     {
       "draw": 37,
       "n_negative": 804,
       "n_positive": 845,
-      "difference": -0.0041432456594485915,
+      "difference": -0.004143263399710386,
       "valid": true
     },
     {
       "draw": 38,
       "n_negative": 872,
       "n_positive": 777,
-      "difference": -0.00211594744886233,
+      "difference": -0.002115955153934805,
       "valid": true
     },
     {
       "draw": 39,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.0006715339117121614,
+      "difference": -0.0006715391064741583,
       "valid": true
     },
     {
       "draw": 40,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0011583204010136698,
+      "difference": -0.0011583286876856369,
       "valid": true
     },
     {
       "draw": 41,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.00321788916977313,
+      "difference": -0.0032179099616045396,
       "valid": true
     },
     {
       "draw": 42,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0034276659583470934,
+      "difference": -0.003427690374790437,
       "valid": true
     },
     {
       "draw": 43,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.003457386918960599,
+      "difference": -0.0034573948374305094,
       "valid": true
     },
     {
       "draw": 44,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.002993714071286536,
+      "difference": -0.0029937246545090465,
       "valid": true
     },
     {
       "draw": 45,
       "n_negative": 795,
       "n_positive": 854,
-      "difference": -0.0012838704346595697,
+      "difference": -0.0012838842911813003,
       "valid": true
     },
     {
       "draw": 46,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.0051880529350547015,
+      "difference": -0.00518805571505627,
       "valid": true
     },
     {
       "draw": 47,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.003168338858941775,
+      "difference": -0.0031683428013810928,
       "valid": true
     },
     {
       "draw": 48,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.003790463272643171,
+      "difference": -0.0037904732080611967,
       "valid": true
     },
     {
       "draw": 49,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.003722446736183578,
+      "difference": -0.0037224636699923447,
       "valid": true
     },
     {
       "draw": 50,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0023222315591019745,
+      "difference": -0.002322233230390984,
       "valid": true
     },
     {
       "draw": 51,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.005110929945034178,
+      "difference": -0.0051109509818906915,
       "valid": true
     },
     {
       "draw": 52,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0022113355882667557,
+      "difference": -0.0022113504400443815,
       "valid": true
     },
     {
       "draw": 53,
       "n_negative": 882,
       "n_positive": 767,
-      "difference": -0.0010311407892327174,
+      "difference": -0.0010311423528206888,
       "valid": true
     },
     {
       "draw": 54,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.002915388957242333,
+      "difference": -0.002915399421873469,
       "valid": true
     },
     {
       "draw": 55,
       "n_negative": 859,
       "n_positive": 790,
-      "difference": -0.0034315439431304275,
+      "difference": -0.003431557567061985,
       "valid": true
     },
     {
       "draw": 56,
       "n_negative": 866,
       "n_positive": 783,
-      "difference": -0.0008459092939800076,
+      "difference": -0.0008459184919984077,
       "valid": true
     },
     {
       "draw": 57,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.0023922058311787527,
+      "difference": -0.002392217362156008,
       "valid": true
     },
     {
       "draw": 58,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.0022274382656374088,
+      "difference": -0.002227448288462246,
       "valid": true
     },
     {
       "draw": 59,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0018873084986549783,
+      "difference": -0.0018873244414778058,
       "valid": true
     },
     {
       "draw": 60,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0026894965181668996,
+      "difference": -0.0026894988746864468,
       "valid": true
     },
     {
       "draw": 61,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.003366411864019988,
+      "difference": -0.003366418463246481,
       "valid": true
     },
     {
       "draw": 62,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0028654632039035476,
+      "difference": -0.0028654787310902798,
       "valid": true
     },
     {
       "draw": 63,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0010883240126704748,
+      "difference": -0.0010883334618818435,
       "valid": true
     },
     {
       "draw": 64,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.0028699496208564666,
+      "difference": -0.002869964092158612,
       "valid": true
     },
     {
       "draw": 65,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0001458080729608123,
+      "difference": -0.00014581185855376717,
       "valid": true
     },
     {
       "draw": 66,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": 0.00023709133287141038,
+      "difference": 0.00023707828133825382,
       "valid": true
     },
     {
       "draw": 67,
       "n_negative": 884,
       "n_positive": 765,
-      "difference": -0.0025282204467171705,
+      "difference": -0.0025282314564238646,
       "valid": true
     },
     {
       "draw": 68,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.0009883284883849047,
+      "difference": -0.000988343819975549,
       "valid": true
     },
     {
       "draw": 69,
       "n_negative": 808,
       "n_positive": 841,
-      "difference": -0.0025739302567909955,
+      "difference": -0.0025739348446028286,
       "valid": true
     },
     {
       "draw": 70,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.002137631317227692,
+      "difference": -0.0021376440639239956,
       "valid": true
     },
     {
       "draw": 71,
       "n_negative": 821,
       "n_positive": 828,
-      "difference": -0.003214735690065402,
+      "difference": -0.00321474287252953,
       "valid": true
     },
     {
       "draw": 72,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.001507216391646877,
+      "difference": -0.0015072221309704082,
       "valid": true
     },
     {
       "draw": 73,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.00276669326691314,
+      "difference": -0.0027667101410782814,
       "valid": true
     },
     {
       "draw": 74,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.004124202631842095,
+      "difference": -0.0041242145986236005,
       "valid": true
     },
     {
       "draw": 75,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": -1.0428933886701846e-05,
+      "difference": -1.0433073130906509e-05,
       "valid": true
     },
     {
       "draw": 76,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.0019763920115690352,
+      "difference": -0.0019763965211552076,
       "valid": true
     },
     {
       "draw": 77,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.003781789270149359,
+      "difference": -0.0037818021154002028,
       "valid": true
     },
     {
       "draw": 78,
       "n_negative": 819,
       "n_positive": 830,
-      "difference": -0.002861177623488315,
+      "difference": -0.0028611839525009082,
       "valid": true
     },
     {
       "draw": 79,
       "n_negative": 821,
       "n_positive": 828,
-      "difference": 0.0005476925764552683,
+      "difference": 0.0005476877069011878,
       "valid": true
     },
     {
       "draw": 80,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0008876307397314082,
+      "difference": -0.0008876452190306751,
       "valid": true
     },
     {
       "draw": 81,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0046813755405045055,
+      "difference": -0.0046813989360390985,
       "valid": true
     },
     {
       "draw": 82,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0056183544391665155,
+      "difference": -0.005618365868826905,
       "valid": true
     },
     {
       "draw": 83,
       "n_negative": 890,
       "n_positive": 759,
-      "difference": -0.0007043065579230631,
+      "difference": -0.0007043116332482131,
       "valid": true
     },
     {
       "draw": 84,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.0020737420366834392,
+      "difference": -0.002073749160704303,
       "valid": true
     },
     {
       "draw": 85,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.0008722206070220048,
+      "difference": -0.0008722207989284916,
       "valid": true
     },
     {
       "draw": 86,
       "n_negative": 859,
       "n_positive": 790,
-      "difference": -0.004687888671808455,
+      "difference": -0.004687897748249147,
       "valid": true
     },
     {
       "draw": 87,
       "n_negative": 881,
       "n_positive": 768,
-      "difference": -0.00154940178993431,
+      "difference": -0.001549411260331928,
       "valid": true
     },
     {
       "draw": 88,
       "n_negative": 894,
       "n_positive": 755,
-      "difference": -0.0007210277291017065,
+      "difference": -0.0007210378901721033,
       "valid": true
     },
     {
       "draw": 89,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.004346436696258976,
+      "difference": -0.004346450751570989,
       "valid": true
     },
     {
       "draw": 90,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0027538265724638498,
+      "difference": -0.0027538447285380806,
       "valid": true
     },
     {
       "draw": 91,
       "n_negative": 866,
       "n_positive": 783,
-      "difference": -0.001391652276854062,
+      "difference": -0.0013916659414555626,
       "valid": true
     },
     {
       "draw": 92,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0017910287384130471,
+      "difference": -0.0017910511637733684,
       "valid": true
     },
     {
       "draw": 93,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.004842950951835155,
+      "difference": -0.004842961037569869,
       "valid": true
     },
     {
       "draw": 94,
       "n_negative": 880,
       "n_positive": 769,
-      "difference": -0.002757928214599745,
+      "difference": -0.0027579371830636864,
       "valid": true
     },
     {
       "draw": 95,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0013963175557830053,
+      "difference": -0.0013963255425889771,
       "valid": true
     },
     {
       "draw": 96,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.0014496780309185557,
+      "difference": -0.0014496783413655626,
       "valid": true
     },
     {
       "draw": 97,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.001243581020734879,
+      "difference": -0.00124359381993981,
       "valid": true
     },
     {
       "draw": 98,
       "n_negative": 790,
       "n_positive": 859,
-      "difference": -0.002099592955452141,
+      "difference": -0.002099605974304288,
       "valid": true
     },
     {
       "draw": 99,
       "n_negative": 875,
       "n_positive": 774,
-      "difference": -0.00026520994398679664,
+      "difference": -0.00026521286698585607,
       "valid": true
     },
     {
       "draw": 100,
       "n_negative": 803,
       "n_positive": 846,
-      "difference": -0.0023050995816452503,
+      "difference": -0.0023051111864296693,
       "valid": true
     },
     {
       "draw": 101,
       "n_negative": 877,
       "n_positive": 772,
-      "difference": -0.0017154790941872173,
+      "difference": -0.0017154939245893836,
       "valid": true
     },
     {
       "draw": 102,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.003480785836330238,
+      "difference": -0.0034807945577867176,
       "valid": true
     },
     {
       "draw": 103,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0012280790578062147,
+      "difference": -0.0012280899508421374,
       "valid": true
     },
     {
       "draw": 104,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0009053619550618977,
+      "difference": -0.0009053664860645764,
       "valid": true
     },
     {
       "draw": 105,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0010073627953389782,
+      "difference": -0.0010073736024375558,
       "valid": true
     },
     {
       "draw": 106,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0018193676866418008,
+      "difference": -0.0018193882076370353,
       "valid": true
     },
     {
       "draw": 107,
       "n_negative": 809,
       "n_positive": 840,
-      "difference": -0.002814799383909625,
+      "difference": -0.0028148088624203307,
       "valid": true
     },
     {
       "draw": 108,
       "n_negative": 876,
       "n_positive": 773,
-      "difference": -0.00373385571089891,
+      "difference": -0.0037338713701906344,
       "valid": true
     },
     {
       "draw": 109,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.005051155750467138,
+      "difference": -0.005051169186333657,
       "valid": true
     },
     {
       "draw": 110,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.005292990145157574,
+      "difference": -0.005293016793990806,
       "valid": true
     },
     {
       "draw": 111,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0011661075969541523,
+      "difference": -0.0011661178324555766,
       "valid": true
     },
     {
       "draw": 112,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.003478212474659513,
+      "difference": -0.0034782187815101734,
       "valid": true
     },
     {
       "draw": 113,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0010759659159790438,
+      "difference": -0.0010759805902189066,
       "valid": true
     },
     {
       "draw": 114,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.0012355371920321247,
+      "difference": -0.0012355509215505826,
       "valid": true
     },
     {
       "draw": 115,
       "n_negative": 887,
       "n_positive": 762,
-      "difference": -0.006308369192154538,
+      "difference": -0.0063083831970478805,
       "valid": true
     },
     {
       "draw": 116,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.002695216125298827,
+      "difference": -0.00269522962246608,
       "valid": true
     },
     {
       "draw": 117,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0027169900311342335,
+      "difference": -0.002717002779210556,
       "valid": true
     },
     {
       "draw": 118,
       "n_negative": 873,
       "n_positive": 776,
-      "difference": -0.0006699113778164208,
+      "difference": -0.0006699257542984558,
       "valid": true
     },
     {
       "draw": 119,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0021556433764965237,
+      "difference": -0.002155651277070911,
       "valid": true
     },
     {
       "draw": 120,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.003261935860196836,
+      "difference": -0.0032619492302299225,
       "valid": true
     },
     {
       "draw": 121,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.00013457980037108897,
+      "difference": -0.00013458827150991518,
       "valid": true
     },
     {
       "draw": 122,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.00035002813413783176,
+      "difference": -0.00035003771744402117,
       "valid": true
     },
     {
       "draw": 123,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0033342562489874507,
+      "difference": -0.0033342571744120254,
       "valid": true
     },
     {
       "draw": 124,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.002231849038599162,
+      "difference": -0.0022318585294251563,
       "valid": true
     },
     {
       "draw": 125,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0029591529991846322,
+      "difference": -0.002959171376764594,
       "valid": true
     },
     {
       "draw": 126,
       "n_negative": 802,
       "n_positive": 847,
-      "difference": -0.0010106866032766168,
+      "difference": -0.0010106939867225253,
       "valid": true
     },
     {
       "draw": 127,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.002701045394661628,
+      "difference": -0.0027010505178580984,
       "valid": true
     },
     {
       "draw": 128,
       "n_negative": 871,
       "n_positive": 778,
-      "difference": -0.0009687255060333932,
+      "difference": -0.0009687373205146183,
       "valid": true
     },
     {
       "draw": 129,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.0019252009102647344,
+      "difference": -0.001925210477067174,
       "valid": true
     },
     {
       "draw": 130,
       "n_negative": 819,
       "n_positive": 830,
-      "difference": -0.0052419492772360155,
+      "difference": -0.005241959335264147,
       "valid": true
     },
     {
       "draw": 131,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": -0.0030292965432026906,
+      "difference": -0.003029312273128586,
       "valid": true
     },
     {
       "draw": 132,
       "n_negative": 797,
       "n_positive": 852,
-      "difference": -0.0032003613547058733,
+      "difference": -0.0032003814255100634,
       "valid": true
     },
     {
       "draw": 133,
       "n_negative": 788,
       "n_positive": 861,
-      "difference": -0.002066307379926878,
+      "difference": -0.0020663132805642673,
       "valid": true
     },
     {
       "draw": 134,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.0019887245680070805,
+      "difference": -0.0019887380810669195,
       "valid": true
     },
     {
       "draw": 135,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": -0.0011710233455648968,
+      "difference": -0.001171036211066331,
       "valid": true
     },
     {
       "draw": 136,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.0031390436705588253,
+      "difference": -0.0031390541670610573,
       "valid": true
     },
     {
       "draw": 137,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0037407957243064246,
+      "difference": -0.0037408029983939054,
       "valid": true
     },
     {
       "draw": 138,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0015164556889603906,
+      "difference": -0.0015164566303837621,
       "valid": true
     },
     {
       "draw": 139,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.003625957059619531,
+      "difference": -0.0036259693672177997,
       "valid": true
     },
     {
       "draw": 140,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.003659188770648888,
+      "difference": -0.0036592019315972567,
       "valid": true
     },
     {
       "draw": 141,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0015546204197642586,
+      "difference": -0.0015546200463533322,
       "valid": true
     },
     {
       "draw": 142,
       "n_negative": 814,
       "n_positive": 835,
-      "difference": -0.0018630473666676243,
+      "difference": -0.0018630652593218298,
       "valid": true
     },
     {
       "draw": 143,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0006667388380842986,
+      "difference": -0.0006667454085266914,
       "valid": true
     },
     {
       "draw": 144,
       "n_negative": 866,
       "n_positive": 783,
-      "difference": -0.004417934612782379,
+      "difference": -0.004417954808638557,
       "valid": true
     },
     {
       "draw": 145,
       "n_negative": 820,
       "n_positive": 829,
-      "difference": -0.004756182232845834,
+      "difference": -0.00475619327288565,
       "valid": true
     },
     {
       "draw": 146,
       "n_negative": 785,
       "n_positive": 864,
-      "difference": -0.0027700317025186427,
+      "difference": -0.0027700366638748856,
       "valid": true
     },
     {
       "draw": 147,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.0017755366563188776,
+      "difference": -0.0017755472504645774,
       "valid": true
     },
     {
       "draw": 148,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.00024058766506838806,
+      "difference": -0.00024059872890173743,
       "valid": true
     },
     {
       "draw": 149,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0044013760015865775,
+      "difference": -0.0044013979141402405,
       "valid": true
     },
     {
       "draw": 150,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.0018800999465697493,
+      "difference": -0.0018801117082138468,
       "valid": true
     },
     {
       "draw": 151,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.0007214230297082198,
+      "difference": -0.0007214292787137685,
       "valid": true
     },
     {
       "draw": 152,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0035145753470734132,
+      "difference": -0.0035145820804579333,
       "valid": true
     },
     {
       "draw": 153,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.004665815063280206,
+      "difference": -0.004665830022494156,
       "valid": true
     },
     {
       "draw": 154,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.001711584524746533,
+      "difference": -0.0017116040760535348,
       "valid": true
     },
     {
       "draw": 155,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.005168056717700985,
+      "difference": -0.00516806270384497,
       "valid": true
     },
     {
       "draw": 156,
       "n_negative": 859,
       "n_positive": 790,
-      "difference": -0.0007026248385105094,
+      "difference": -0.0007026356034941509,
       "valid": true
     },
     {
       "draw": 157,
       "n_negative": 865,
       "n_positive": 784,
-      "difference": -0.0010709959647036255,
+      "difference": -0.0010710083490036682,
       "valid": true
     },
     {
       "draw": 158,
       "n_negative": 809,
       "n_positive": 840,
-      "difference": 0.0003005355885058991,
+      "difference": 0.00030052325990752467,
       "valid": true
     },
     {
       "draw": 159,
       "n_negative": 807,
       "n_positive": 842,
-      "difference": -0.0019596355817740607,
+      "difference": -0.001959649910733045,
       "valid": true
     },
     {
       "draw": 160,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0007145239674952044,
+      "difference": -0.0007145273375052853,
       "valid": true
     },
     {
       "draw": 161,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": 0.00010709102957139375,
+      "difference": 0.00010708437113510422,
       "valid": true
     },
     {
       "draw": 162,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.0033304366942408592,
+      "difference": -0.0033304413589194184,
       "valid": true
     },
     {
       "draw": 163,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0007788395874617969,
+      "difference": -0.0007788511531602994,
       "valid": true
     },
     {
       "draw": 164,
       "n_negative": 793,
       "n_positive": 856,
-      "difference": -0.005030841003503742,
+      "difference": -0.005030853275418286,
       "valid": true
     },
     {
       "draw": 165,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.0031446640846274163,
+      "difference": -0.003144672047286872,
       "valid": true
     },
     {
       "draw": 166,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.0009432938658095073,
+      "difference": -0.0009432996431864007,
       "valid": true
     },
     {
       "draw": 167,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.001014769296898129,
+      "difference": -0.0010147724000532962,
       "valid": true
     },
     {
       "draw": 168,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.0008119854243136067,
+      "difference": -0.0008119964304013287,
       "valid": true
     },
     {
       "draw": 169,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.003998281533356133,
+      "difference": -0.003998298489540682,
       "valid": true
     },
     {
       "draw": 170,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.0008764616232403703,
+      "difference": -0.0008764750545038173,
       "valid": true
     },
     {
       "draw": 171,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0008663677905297219,
+      "difference": -0.0008663761321571444,
       "valid": true
     },
     {
       "draw": 172,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0028453193825111705,
+      "difference": -0.0028453334988124365,
       "valid": true
     },
     {
       "draw": 173,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.003513565914373635,
+      "difference": -0.0035135766220308396,
       "valid": true
     },
     {
       "draw": 174,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.0019935040079222814,
+      "difference": -0.0019935128744987176,
       "valid": true
     },
     {
       "draw": 175,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": 0.0002090564989415046,
+      "difference": 0.00020904550459138174,
       "valid": true
     },
     {
       "draw": 176,
       "n_negative": 814,
       "n_positive": 835,
-      "difference": -0.0005605547523183013,
+      "difference": -0.0005605656782665138,
       "valid": true
     },
     {
       "draw": 177,
       "n_negative": 880,
       "n_positive": 769,
-      "difference": -0.002222995303416556,
+      "difference": -0.0022230032585303667,
       "valid": true
     },
     {
       "draw": 178,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0035742234252856297,
+      "difference": -0.0035742394265865637,
       "valid": true
     },
     {
       "draw": 179,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.00208965940583625,
+      "difference": -0.002089674812812972,
       "valid": true
     },
     {
       "draw": 180,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.002846698910373576,
+      "difference": -0.002846706196438,
       "valid": true
     },
     {
       "draw": 181,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0044862959705605915,
+      "difference": -0.004486303230596418,
       "valid": true
     },
     {
       "draw": 182,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0037173094526716786,
+      "difference": -0.0037173100422159752,
       "valid": true
     },
     {
       "draw": 183,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.001560522755179904,
+      "difference": -0.0015605300279196584,
       "valid": true
     },
     {
       "draw": 184,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.0035700417933626815,
+      "difference": -0.003570062404241974,
       "valid": true
     },
     {
       "draw": 185,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.00388512539070056,
+      "difference": -0.003885141505998664,
       "valid": true
     },
     {
       "draw": 186,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.004759205828316799,
+      "difference": -0.004759217905375775,
       "valid": true
     },
     {
       "draw": 187,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.0028508695022238613,
+      "difference": -0.002850879597834589,
       "valid": true
     },
     {
       "draw": 188,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.0007050769833138773,
+      "difference": -0.0007050905159613064,
       "valid": true
     },
     {
       "draw": 189,
       "n_negative": 865,
       "n_positive": 784,
-      "difference": -0.000943312562775994,
+      "difference": -0.0009433214826738544,
       "valid": true
     },
     {
       "draw": 190,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0008586827371533759,
+      "difference": -0.0008586933127006803,
       "valid": true
     },
     {
       "draw": 191,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.0009628939353164053,
+      "difference": -0.0009629021973263554,
       "valid": true
     },
     {
       "draw": 192,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.0020569185533556543,
+      "difference": -0.002056934753608874,
       "valid": true
     },
     {
       "draw": 193,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.004627110410757366,
+      "difference": -0.004627119055061642,
       "valid": true
     },
     {
       "draw": 194,
       "n_negative": 880,
       "n_positive": 769,
-      "difference": -0.0012240098588884563,
+      "difference": -0.0012240189041862757,
       "valid": true
     },
     {
       "draw": 195,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.00456001592184377,
+      "difference": -0.004560036507795952,
       "valid": true
     },
     {
       "draw": 196,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0026063976650431433,
+      "difference": -0.00260640380317805,
       "valid": true
     },
     {
       "draw": 197,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0020494104784250025,
+      "difference": -0.0020494272486561065,
       "valid": true
     },
     {
       "draw": 198,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0012655699917673076,
+      "difference": -0.001265574264932017,
       "valid": true
     },
     {
       "draw": 199,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0013332780942158175,
+      "difference": -0.0013332805640551932,
       "valid": true
     },
     {
       "draw": 200,
       "n_negative": 798,
       "n_positive": 851,
-      "difference": -0.0016495718100892954,
+      "difference": -0.0016495907862246466,
       "valid": true
     },
     {
       "draw": 201,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.0018590613933891916,
+      "difference": -0.001859061919700817,
       "valid": true
     },
     {
       "draw": 202,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.0012505538855924992,
+      "difference": -0.0012505623045402287,
       "valid": true
     },
     {
       "draw": 203,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0039187835245615655,
+      "difference": -0.003918798112430926,
       "valid": true
     },
     {
       "draw": 204,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0030129735219850164,
+      "difference": -0.003012984361670448,
       "valid": true
     },
     {
       "draw": 205,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.0011028417840699264,
+      "difference": -0.0011028543353577293,
       "valid": true
     },
     {
       "draw": 206,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.0055255907439576354,
+      "difference": -0.005525603194828847,
       "valid": true
     },
     {
       "draw": 207,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.001290613492521651,
+      "difference": -0.0012906235038345395,
       "valid": true
     },
     {
       "draw": 208,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.003595892762436163,
+      "difference": -0.003595906461889701,
       "valid": true
     },
     {
       "draw": 209,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0023555442368744057,
+      "difference": -0.0023555595373690344,
       "valid": true
     },
     {
       "draw": 210,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.002193053086418251,
+      "difference": -0.002193065382849539,
       "valid": true
     },
     {
       "draw": 211,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0026170655180938794,
+      "difference": -0.002617078407750416,
       "valid": true
     },
     {
       "draw": 212,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": -0.003593286219822779,
+      "difference": -0.003593299238974351,
       "valid": true
     },
     {
       "draw": 213,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.0055064335032285125,
+      "difference": -0.005506447605675107,
       "valid": true
     },
     {
       "draw": 214,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.001552328851796534,
+      "difference": -0.0015523457940475806,
       "valid": true
     },
     {
       "draw": 215,
       "n_negative": 859,
       "n_positive": 790,
-      "difference": -0.0005282485225669661,
+      "difference": -0.0005282647766602583,
       "valid": true
     },
     {
       "draw": 216,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.001628739689048486,
+      "difference": -0.0016287408296500718,
       "valid": true
     },
     {
       "draw": 217,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.0019126668339813644,
+      "difference": -0.001912679217123416,
       "valid": true
     },
     {
       "draw": 218,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.001112740284456851,
+      "difference": -0.0011127463619903617,
       "valid": true
     },
     {
       "draw": 219,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": 4.601135921299609e-05,
+      "difference": 4.600077029044485e-05,
       "valid": true
     },
     {
       "draw": 220,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0007825236592046796,
+      "difference": -0.0007825342067968903,
       "valid": true
     },
     {
       "draw": 221,
       "n_negative": 816,
       "n_positive": 833,
-      "difference": -0.0018451789343888344,
+      "difference": -0.0018451956023970632,
       "valid": true
     },
     {
       "draw": 222,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0007663153804188027,
+      "difference": -0.00076632085053924,
       "valid": true
     },
     {
       "draw": 223,
       "n_negative": 877,
       "n_positive": 772,
-      "difference": -0.0012964602238378536,
+      "difference": -0.0012964642240381134,
       "valid": true
     },
     {
       "draw": 224,
       "n_negative": 821,
       "n_positive": 828,
-      "difference": -0.001858878568478339,
+      "difference": -0.0018588845796164706,
       "valid": true
     },
     {
       "draw": 225,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0023408415313583794,
+      "difference": -0.002340861867678682,
       "valid": true
     },
     {
       "draw": 226,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": 0.000869786081384602,
+      "difference": 0.0008697805932304428,
       "valid": true
     },
     {
       "draw": 227,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.003167842040361942,
+      "difference": -0.0031678494455861226,
       "valid": true
     },
     {
       "draw": 228,
       "n_negative": 874,
       "n_positive": 775,
-      "difference": -0.0027292574595642357,
+      "difference": -0.0027292688007802307,
       "valid": true
     },
     {
       "draw": 229,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": 0.0006080259759775335,
+      "difference": 0.0006080204175734465,
       "valid": true
     },
     {
       "draw": 230,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0017609410529930013,
+      "difference": -0.0017609560489901344,
       "valid": true
     },
     {
       "draw": 231,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.002241934621078691,
+      "difference": -0.0022419574024257556,
       "valid": true
     },
     {
       "draw": 232,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.00317986850159489,
+      "difference": -0.0031798902040884223,
       "valid": true
     },
     {
       "draw": 233,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0013399508093421006,
+      "difference": -0.0013399688342138664,
       "valid": true
     },
     {
       "draw": 234,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.00475123928157469,
+      "difference": -0.004751243661425436,
       "valid": true
     },
     {
       "draw": 235,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.0037169542013931714,
+      "difference": -0.003716976563692354,
       "valid": true
     },
     {
       "draw": 236,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.0028252730867179146,
+      "difference": -0.0028252693222371615,
       "valid": true
     },
     {
       "draw": 237,
       "n_negative": 819,
       "n_positive": 830,
-      "difference": -0.0036709141180588023,
+      "difference": -0.0036709269325454156,
       "valid": true
     },
     {
       "draw": 238,
       "n_negative": 787,
       "n_positive": 862,
-      "difference": -0.003372142169546222,
+      "difference": -0.0033721599119449427,
       "valid": true
     },
     {
       "draw": 239,
       "n_negative": 866,
       "n_positive": 783,
-      "difference": -0.00011834998189807328,
+      "difference": -0.00011835879325122073,
       "valid": true
     },
     {
       "draw": 240,
       "n_negative": 869,
       "n_positive": 780,
-      "difference": -0.0006655094394664665,
+      "difference": -0.0006655286960245699,
       "valid": true
     },
     {
       "draw": 241,
       "n_negative": 821,
       "n_positive": 828,
-      "difference": -0.0025701588989085703,
+      "difference": -0.0025701741305079974,
       "valid": true
     },
     {
       "draw": 242,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.005207540629382997,
+      "difference": -0.005207551632956509,
       "valid": true
     },
     {
       "draw": 243,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.001548482234552518,
+      "difference": -0.0015484909860094263,
       "valid": true
     },
     {
       "draw": 244,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.0014314430103973417,
+      "difference": -0.0014314514889800774,
       "valid": true
     },
     {
       "draw": 245,
       "n_negative": 811,
       "n_positive": 838,
-      "difference": -0.00201674109812425,
+      "difference": -0.0020167537804095716,
       "valid": true
     },
     {
       "draw": 246,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.0011599660235109516,
+      "difference": -0.001159968165692307,
       "valid": true
     },
     {
       "draw": 247,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0011398594717003706,
+      "difference": -0.0011398701266200023,
       "valid": true
     },
     {
       "draw": 248,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.0025440531831625052,
+      "difference": -0.0025440629046826328,
       "valid": true
     },
     {
       "draw": 249,
       "n_negative": 810,
       "n_positive": 839,
-      "difference": -0.0035429261885186938,
+      "difference": -0.0035429357017656335,
       "valid": true
     },
     {
       "draw": 250,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0022007615849133494,
+      "difference": -0.0022007732857980645,
       "valid": true
     },
     {
       "draw": 251,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.002416396951415209,
+      "difference": -0.0024164025970021727,
       "valid": true
     },
     {
       "draw": 252,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.001500014921255569,
+      "difference": -0.001500022459046889,
       "valid": true
     },
     {
       "draw": 253,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.001514680778068839,
+      "difference": -0.0015146898646813567,
       "valid": true
     },
     {
       "draw": 254,
       "n_negative": 802,
       "n_positive": 847,
-      "difference": -0.0005747886630282618,
+      "difference": -0.0005747941232150381,
       "valid": true
     },
     {
       "draw": 255,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0031050311009942094,
+      "difference": -0.0031050510929258282,
       "valid": true
     },
     {
       "draw": 256,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.0014510667978093654,
+      "difference": -0.0014510786846136927,
       "valid": true
     },
     {
       "draw": 257,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0010950684022944526,
+      "difference": -0.0010950693461734737,
       "valid": true
     },
     {
       "draw": 258,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.0016702419237036737,
+      "difference": -0.001670253523604092,
       "valid": true
     },
     {
       "draw": 259,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.0025853448576989404,
+      "difference": -0.0025853503145401094,
       "valid": true
     },
     {
       "draw": 260,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.0021712194068325154,
+      "difference": -0.0021712226176698254,
       "valid": true
     },
     {
       "draw": 261,
       "n_negative": 869,
       "n_positive": 780,
-      "difference": -0.0020949580365889056,
+      "difference": -0.002094963181392827,
       "valid": true
     },
     {
       "draw": 262,
       "n_negative": 795,
       "n_positive": 854,
-      "difference": -0.00276154564448369,
+      "difference": -0.002761550424741189,
       "valid": true
     },
     {
       "draw": 263,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.001811769005697859,
+      "difference": -0.0018117788913822488,
       "valid": true
     },
     {
       "draw": 264,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.002229526618921268,
+      "difference": -0.002229539287269092,
       "valid": true
     },
     {
       "draw": 265,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.003848935158092123,
+      "difference": -0.0038489412987400278,
       "valid": true
     },
     {
       "draw": 266,
       "n_negative": 809,
       "n_positive": 840,
-      "difference": -0.0011800241663524487,
+      "difference": -0.0011800279949183493,
       "valid": true
     },
     {
       "draw": 267,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": 0.00026523535666375854,
+      "difference": 0.00026522127508084114,
       "valid": true
     },
     {
       "draw": 268,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0018426018090068768,
+      "difference": -0.0018426202402811432,
       "valid": true
     },
     {
       "draw": 269,
       "n_negative": 882,
       "n_positive": 767,
-      "difference": -0.006221580957000531,
+      "difference": -0.006221594829676303,
       "valid": true
     },
     {
       "draw": 270,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.003551397550899109,
+      "difference": -0.0035514155976557643,
       "valid": true
     },
     {
       "draw": 271,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0022645219182356163,
+      "difference": -0.002264534019312985,
       "valid": true
     },
     {
       "draw": 272,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.003602899516506861,
+      "difference": -0.0036029066947849127,
       "valid": true
     },
     {
       "draw": 273,
       "n_negative": 805,
       "n_positive": 844,
-      "difference": -0.001169579379174393,
+      "difference": -0.0011695908436044154,
       "valid": true
     },
     {
       "draw": 274,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0009790761072927857,
+      "difference": -0.0009790847545623072,
       "valid": true
     },
     {
       "draw": 275,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.003242445457644479,
+      "difference": -0.003242444931278338,
       "valid": true
     },
     {
       "draw": 276,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": 0.0014900845577813006,
+      "difference": 0.001490083346030097,
       "valid": true
     },
     {
       "draw": 277,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.0029870494249214464,
+      "difference": -0.0029870664391274883,
       "valid": true
     },
     {
       "draw": 278,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.0018431147048858544,
+      "difference": -0.0018431267300602695,
       "valid": true
     },
     {
       "draw": 279,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.0013763572263845321,
+      "difference": -0.0013763601887621091,
       "valid": true
     },
     {
       "draw": 280,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.0018434742815326539,
+      "difference": -0.0018434889101190746,
       "valid": true
     },
     {
       "draw": 281,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.005472497782366365,
+      "difference": -0.005472511866068197,
       "valid": true
     },
     {
       "draw": 282,
       "n_negative": 808,
       "n_positive": 841,
-      "difference": -0.0039290584675244,
+      "difference": -0.003929079771697678,
       "valid": true
     },
     {
       "draw": 283,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0032450131161445117,
+      "difference": -0.0032450222564386214,
       "valid": true
     },
     {
       "draw": 284,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0029518406235528186,
+      "difference": -0.0029518514519595446,
       "valid": true
     },
     {
       "draw": 285,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.003899579772802795,
+      "difference": -0.003899595987163944,
       "valid": true
     },
     {
       "draw": 286,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": 0.00021327175883978844,
+      "difference": 0.00021326822045368218,
       "valid": true
     },
     {
       "draw": 287,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0027636451942888145,
+      "difference": -0.0027636576987291077,
       "valid": true
     },
     {
       "draw": 288,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0017312920461391638,
+      "difference": -0.0017313065672256932,
       "valid": true
     },
     {
       "draw": 289,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0035061632129759135,
+      "difference": -0.0035061720410946634,
       "valid": true
     },
     {
       "draw": 290,
       "n_negative": 798,
       "n_positive": 851,
-      "difference": -0.004398996158083528,
+      "difference": -0.004399004277206016,
       "valid": true
     },
     {
       "draw": 291,
       "n_negative": 814,
       "n_positive": 835,
-      "difference": -0.0008576434699438444,
+      "difference": -0.0008576495963757212,
       "valid": true
     },
     {
       "draw": 292,
       "n_negative": 870,
       "n_positive": 779,
-      "difference": -0.0013893394735053491,
+      "difference": -0.0013893453927943966,
       "valid": true
     },
     {
       "draw": 293,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.001290790940415141,
+      "difference": -0.0012908035237740702,
       "valid": true
     },
     {
       "draw": 294,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0019253717132749872,
+      "difference": -0.0019253792578532909,
       "valid": true
     },
     {
       "draw": 295,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.0028829202008856898,
+      "difference": -0.002882925730790551,
       "valid": true
     },
     {
       "draw": 296,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0013036940762513809,
+      "difference": -0.00130370043701598,
       "valid": true
     },
     {
       "draw": 297,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.005903088874277618,
+      "difference": -0.005903099091419719,
       "valid": true
     },
     {
       "draw": 298,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.0022720915374649076,
+      "difference": -0.002272095697985067,
       "valid": true
     },
     {
       "draw": 299,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0053330200491585504,
+      "difference": -0.005333036266069103,
       "valid": true
     },
     {
       "draw": 300,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.004196205430488412,
+      "difference": -0.004196223662383534,
       "valid": true
     },
     {
       "draw": 301,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0009560797533934231,
+      "difference": -0.0009560900819429941,
       "valid": true
     },
     {
       "draw": 302,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0024215569252237666,
+      "difference": -0.0024215681118803034,
       "valid": true
     },
     {
       "draw": 303,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.0017352743037739658,
+      "difference": -0.0017352818377264212,
       "valid": true
     },
     {
       "draw": 304,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.0029856253606346896,
+      "difference": -0.002985630306506475,
       "valid": true
     },
     {
       "draw": 305,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.002493044102979002,
+      "difference": -0.0024930552757744815,
       "valid": true
     },
     {
       "draw": 306,
       "n_negative": 820,
       "n_positive": 829,
-      "difference": -0.003104417347246972,
+      "difference": -0.003104425283628421,
       "valid": true
     },
     {
       "draw": 307,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0020941745111654206,
+      "difference": -0.0020941878629521975,
       "valid": true
     },
     {
       "draw": 308,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0009128557639007662,
+      "difference": -0.0009128702443460738,
       "valid": true
     },
     {
       "draw": 309,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": 4.886121065818228e-05,
+      "difference": 4.885486154212744e-05,
       "valid": true
     },
     {
       "draw": 310,
       "n_negative": 809,
       "n_positive": 840,
-      "difference": -0.003939864712339235,
+      "difference": -0.003939871833813741,
       "valid": true
     },
     {
       "draw": 311,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.00197684588011612,
+      "difference": -0.0019768631775637863,
       "valid": true
     },
     {
       "draw": 312,
       "n_negative": 811,
       "n_positive": 838,
-      "difference": -0.0015124338290415304,
+      "difference": -0.001512439016031101,
       "valid": true
     },
     {
       "draw": 313,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.005135027545942211,
+      "difference": -0.005135034452497586,
       "valid": true
     },
     {
       "draw": 314,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0020579895757527463,
+      "difference": -0.00205800258476826,
       "valid": true
     },
     {
       "draw": 315,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0002879764851579289,
+      "difference": -0.00028799711559167665,
       "valid": true
     },
     {
       "draw": 316,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0019726452686967995,
+      "difference": -0.001972655680696681,
       "valid": true
     },
     {
       "draw": 317,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.002553861858169341,
+      "difference": -0.0025538769920575113,
       "valid": true
     },
     {
       "draw": 318,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0043289694878136005,
+      "difference": -0.004328975494120912,
       "valid": true
     },
     {
       "draw": 319,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.0033647199615054173,
+      "difference": -0.003364732374391386,
       "valid": true
     },
     {
       "draw": 320,
       "n_negative": 799,
       "n_positive": 850,
-      "difference": -0.0030754267554773365,
+      "difference": -0.0030754395019472972,
       "valid": true
     },
     {
       "draw": 321,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.002149830433626781,
+      "difference": -0.002149830639232437,
       "valid": true
     },
     {
       "draw": 322,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.0021890168843359033,
+      "difference": -0.0021890288618860877,
       "valid": true
     },
     {
       "draw": 323,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0017631133026506866,
+      "difference": -0.0017631274938250318,
       "valid": true
     },
     {
       "draw": 324,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.0012850986552662492,
+      "difference": -0.0012851069044916411,
       "valid": true
     },
     {
       "draw": 325,
       "n_negative": 814,
       "n_positive": 835,
-      "difference": -0.00387682701590462,
+      "difference": -0.003876825455608727,
       "valid": true
     },
     {
       "draw": 326,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0012063258405613842,
+      "difference": -0.001206330865600229,
       "valid": true
     },
     {
       "draw": 327,
       "n_negative": 859,
       "n_positive": 790,
-      "difference": -0.0023776206914716794,
+      "difference": -0.0023776267957095953,
       "valid": true
     },
     {
       "draw": 328,
       "n_negative": 808,
       "n_positive": 841,
-      "difference": -0.002838623594092776,
+      "difference": -0.0028386403166987995,
       "valid": true
     },
     {
       "draw": 329,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.004131476784085665,
+      "difference": -0.0041314913978131446,
       "valid": true
     },
     {
       "draw": 330,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.0032357708534894603,
+      "difference": -0.0032357836118178623,
       "valid": true
     },
     {
       "draw": 331,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0033067592015371154,
+      "difference": -0.0033067628429691133,
       "valid": true
     },
     {
       "draw": 332,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.000571307231271497,
+      "difference": -0.0005713134565397428,
       "valid": true
     },
     {
       "draw": 333,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.001482606670860352,
+      "difference": -0.0014826140445805282,
       "valid": true
     },
     {
       "draw": 334,
       "n_negative": 814,
       "n_positive": 835,
-      "difference": -0.0029769195817694796,
+      "difference": -0.0029769212588905314,
       "valid": true
     },
     {
       "draw": 335,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0023672691344340507,
+      "difference": -0.002367287263215417,
       "valid": true
     },
     {
       "draw": 336,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.004476304579490023,
+      "difference": -0.004476317930401196,
       "valid": true
     },
     {
       "draw": 337,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": 0.00014793226318729924,
+      "difference": 0.00014792765710377196,
       "valid": true
     },
     {
       "draw": 338,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0029178956182590674,
+      "difference": -0.002917909081578033,
       "valid": true
     },
     {
       "draw": 339,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.002187447658401417,
+      "difference": -0.002187457096529093,
       "valid": true
     },
     {
       "draw": 340,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.0058889978298860375,
+      "difference": -0.005889008262922908,
       "valid": true
     },
     {
       "draw": 341,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0014558773193784364,
+      "difference": -0.0014558835765962487,
       "valid": true
     },
     {
       "draw": 342,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.005007513021877944,
+      "difference": -0.005007534648903422,
       "valid": true
     },
     {
       "draw": 343,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0018871891615996794,
+      "difference": -0.0018872158759090686,
       "valid": true
     },
     {
       "draw": 344,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.0013793337743832376,
+      "difference": -0.0013793403968441222,
       "valid": true
     },
     {
       "draw": 345,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.002631541163117733,
+      "difference": -0.0026315542012958926,
       "valid": true
     },
     {
       "draw": 346,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.0027041992256819254,
+      "difference": -0.00270421072160598,
       "valid": true
     },
     {
       "draw": 347,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.00652967872261321,
+      "difference": -0.006529691692973656,
       "valid": true
     },
     {
       "draw": 348,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.00255085179057338,
+      "difference": -0.0025508605919763957,
       "valid": true
     },
     {
       "draw": 349,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0030502751242131036,
+      "difference": -0.0030502809589875056,
       "valid": true
     },
     {
       "draw": 350,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.001754482286856342,
+      "difference": -0.0017544883888194395,
       "valid": true
     },
     {
       "draw": 351,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0022214306319770327,
+      "difference": -0.002221450083234514,
       "valid": true
     },
     {
       "draw": 352,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0013321861979494923,
+      "difference": -0.0013321917037637633,
       "valid": true
     },
     {
       "draw": 353,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0018353949516865132,
+      "difference": -0.001835413103598017,
       "valid": true
     },
     {
       "draw": 354,
       "n_negative": 877,
       "n_positive": 772,
-      "difference": -0.0005442611634490229,
+      "difference": -0.0005442687266075983,
       "valid": true
     },
     {
       "draw": 355,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": -0.00048736959284217984,
+      "difference": -0.0004873746188733761,
       "valid": true
     },
     {
       "draw": 356,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0026771774117630327,
+      "difference": -0.0026771917599545175,
       "valid": true
     },
     {
       "draw": 357,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0018135970886717266,
+      "difference": -0.001813612457719713,
       "valid": true
     },
     {
       "draw": 358,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.004080144053644014,
+      "difference": -0.004080159925020267,
       "valid": true
     },
     {
       "draw": 359,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.00322745970811038,
+      "difference": -0.0032274650486084078,
       "valid": true
     },
     {
       "draw": 360,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": -0.0018954546972007975,
+      "difference": -0.0018954716738846889,
       "valid": true
     },
     {
       "draw": 361,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.0013299423701378828,
+      "difference": -0.001329946007253587,
       "valid": true
     },
     {
       "draw": 362,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.00327318082481314,
+      "difference": -0.0032731881496193462,
       "valid": true
     },
     {
       "draw": 363,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.00044916065642293683,
+      "difference": -0.0004491775529313583,
       "valid": true
     },
     {
       "draw": 364,
       "n_negative": 873,
       "n_positive": 776,
-      "difference": -0.0037733106299834124,
+      "difference": -0.003773322811566107,
       "valid": true
     },
     {
       "draw": 365,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0020177551675040913,
+      "difference": -0.0020177705035785433,
       "valid": true
     },
     {
       "draw": 366,
       "n_negative": 819,
       "n_positive": 830,
-      "difference": -0.0016692042389106453,
+      "difference": -0.0016692292401925865,
       "valid": true
     },
     {
       "draw": 367,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0011708761301011718,
+      "difference": -0.001170880831877822,
       "valid": true
     },
     {
       "draw": 368,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.0007441437456728607,
+      "difference": -0.0007441543885837148,
       "valid": true
     },
     {
       "draw": 369,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0046997642495754605,
+      "difference": -0.004699769971334068,
       "valid": true
     },
     {
       "draw": 370,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.001976715618899637,
+      "difference": -0.0019767209653418767,
       "valid": true
     },
     {
       "draw": 371,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0021292090323172946,
+      "difference": -0.0021292150043077285,
       "valid": true
     },
     {
       "draw": 372,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.001573113713617736,
+      "difference": -0.0015731197684427938,
       "valid": true
     },
     {
       "draw": 373,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.0021868916931593336,
+      "difference": -0.002186903878931401,
       "valid": true
     },
     {
       "draw": 374,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.0020989915557591285,
+      "difference": -0.002098997159803945,
       "valid": true
     },
     {
       "draw": 375,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.005767137603368053,
+      "difference": -0.005767150245593735,
       "valid": true
     },
     {
       "draw": 376,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.002616391345539469,
+      "difference": -0.0026164018253642825,
       "valid": true
     },
     {
       "draw": 377,
       "n_negative": 887,
       "n_positive": 762,
-      "difference": -0.0010642943715568625,
+      "difference": -0.0010643023351620533,
       "valid": true
     },
     {
       "draw": 378,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.001319996871201627,
+      "difference": -0.0013200145750641478,
       "valid": true
     },
     {
       "draw": 379,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.004016502322180532,
+      "difference": -0.004016515929330582,
       "valid": true
     },
     {
       "draw": 380,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.00292867471937659,
+      "difference": -0.0029286932542831774,
       "valid": true
     },
     {
       "draw": 381,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.00470171684928411,
+      "difference": -0.004701728186402527,
       "valid": true
     },
     {
       "draw": 382,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.0017797950462010456,
+      "difference": -0.0017798045167900548,
       "valid": true
     },
     {
       "draw": 383,
       "n_negative": 882,
       "n_positive": 767,
-      "difference": -0.006032440153286905,
+      "difference": -0.006032446942964866,
       "valid": true
     },
     {
       "draw": 384,
       "n_negative": 876,
       "n_positive": 773,
-      "difference": -0.005663884302980962,
+      "difference": -0.0056639013123897155,
       "valid": true
     },
     {
       "draw": 385,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.002505663981956288,
+      "difference": -0.002505680742370242,
       "valid": true
     },
     {
       "draw": 386,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0010318943594948078,
+      "difference": -0.0010319017540826858,
       "valid": true
     },
     {
       "draw": 387,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.001747866568020371,
+      "difference": -0.0017478776206680461,
       "valid": true
     },
     {
       "draw": 388,
       "n_negative": 814,
       "n_positive": 835,
-      "difference": -0.004040123672624608,
+      "difference": -0.004040123912024643,
       "valid": true
     },
     {
       "draw": 389,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.004997774818509948,
+      "difference": -0.004997786168821475,
       "valid": true
     },
     {
       "draw": 390,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.002709989250600053,
+      "difference": -0.0027100001781638194,
       "valid": true
     },
     {
       "draw": 391,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.003107850291506749,
+      "difference": -0.003107867203488049,
       "valid": true
     },
     {
       "draw": 392,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.003258482256940801,
+      "difference": -0.0032584998842325012,
       "valid": true
     },
     {
       "draw": 393,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.0024472028551354506,
+      "difference": -0.0024472164952537238,
       "valid": true
     },
     {
       "draw": 394,
       "n_negative": 810,
       "n_positive": 839,
-      "difference": -0.003689680494654044,
+      "difference": -0.003689693221005906,
       "valid": true
     },
     {
       "draw": 395,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.0013824335162549238,
+      "difference": -0.0013824517687361696,
       "valid": true
     },
     {
       "draw": 396,
       "n_negative": 876,
       "n_positive": 773,
-      "difference": -0.0019738969589606073,
+      "difference": -0.001973909722029698,
       "valid": true
     },
     {
       "draw": 397,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.002706215582795026,
+      "difference": -0.002706234215744256,
       "valid": true
     },
     {
       "draw": 398,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0005490478599546298,
+      "difference": -0.0005490646974880186,
       "valid": true
     },
     {
       "draw": 399,
       "n_negative": 878,
       "n_positive": 771,
-      "difference": -0.00415987357871477,
+      "difference": -0.004159888177123719,
       "valid": true
     },
     {
       "draw": 400,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.0033962204220406847,
+      "difference": -0.003396235506426115,
       "valid": true
     },
     {
       "draw": 401,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.0014514039919313565,
+      "difference": -0.0014514092760418056,
       "valid": true
     },
     {
       "draw": 402,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.0008179755863814439,
+      "difference": -0.0008179927438045297,
       "valid": true
     },
     {
       "draw": 403,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.0037121102471157482,
+      "difference": -0.003712130597090899,
       "valid": true
     },
     {
       "draw": 404,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.0035125100632811407,
+      "difference": -0.0035125165070680605,
       "valid": true
     },
     {
       "draw": 405,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": 0.00037429728336720876,
+      "difference": 0.0003742937906555474,
       "valid": true
     },
     {
       "draw": 406,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0034050213630553074,
+      "difference": -0.00340504357371744,
       "valid": true
     },
     {
       "draw": 407,
       "n_negative": 878,
       "n_positive": 771,
-      "difference": -0.0017319507512264867,
+      "difference": -0.0017319546655743625,
       "valid": true
     },
     {
       "draw": 408,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.00048764761343194317,
+      "difference": -0.00048765472659657806,
       "valid": true
     },
     {
       "draw": 409,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.0023561714562162005,
+      "difference": -0.0023561749826408462,
       "valid": true
     },
     {
       "draw": 410,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.002289559821825442,
+      "difference": -0.002289577060811955,
       "valid": true
     },
     {
       "draw": 411,
       "n_negative": 808,
       "n_positive": 841,
-      "difference": -0.00285737025161067,
+      "difference": -0.0028573877757532913,
       "valid": true
     },
     {
       "draw": 412,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.002695238155166521,
+      "difference": -0.0026952491250396998,
       "valid": true
     },
     {
       "draw": 413,
       "n_negative": 866,
       "n_positive": 783,
-      "difference": -0.003900167494101772,
+      "difference": -0.0039001763637542576,
       "valid": true
     },
     {
       "draw": 414,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.0032186405380459854,
+      "difference": -0.003218653153559954,
       "valid": true
     },
     {
       "draw": 415,
       "n_negative": 803,
       "n_positive": 846,
-      "difference": -0.005507642563753154,
+      "difference": -0.005507661591166493,
       "valid": true
     },
     {
       "draw": 416,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.003612445580108127,
+      "difference": -0.003612462773208063,
       "valid": true
     },
     {
       "draw": 417,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0030946275048403214,
+      "difference": -0.003094639519903208,
       "valid": true
     },
     {
       "draw": 418,
       "n_negative": 795,
       "n_positive": 854,
-      "difference": -0.0030472374351543097,
+      "difference": -0.0030472531248468184,
       "valid": true
     },
     {
       "draw": 419,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.005349756223635895,
+      "difference": -0.0053497590981604485,
       "valid": true
     },
     {
       "draw": 420,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.0008121954790299843,
+      "difference": -0.0008122018812248673,
       "valid": true
     },
     {
       "draw": 421,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.002745574137503119,
+      "difference": -0.0027455805905882,
       "valid": true
     },
     {
       "draw": 422,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.0009272034037782133,
+      "difference": -0.0009272140009894538,
       "valid": true
     },
     {
       "draw": 423,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.001966249093369119,
+      "difference": -0.0019662690727817304,
       "valid": true
     },
     {
       "draw": 424,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0023417503842285913,
+      "difference": -0.002341750403809764,
       "valid": true
     },
     {
       "draw": 425,
       "n_negative": 883,
       "n_positive": 766,
-      "difference": -0.0008344951274059197,
+      "difference": -0.0008344999896343098,
       "valid": true
     },
     {
       "draw": 426,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0038590773423229107,
+      "difference": -0.0038590906640958316,
       "valid": true
     },
     {
       "draw": 427,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.005852063614120668,
+      "difference": -0.005852074261593459,
       "valid": true
     },
     {
       "draw": 428,
       "n_negative": 811,
       "n_positive": 838,
-      "difference": -0.0019430089367767885,
+      "difference": -0.0019430095004437102,
       "valid": true
     },
     {
       "draw": 429,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0018697691305484742,
+      "difference": -0.001869773348518679,
       "valid": true
     },
     {
       "draw": 430,
       "n_negative": 820,
       "n_positive": 829,
-      "difference": -8.383208727534401e-05,
+      "difference": -8.383438085288945e-05,
       "valid": true
     },
     {
       "draw": 431,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.002448219195249233,
+      "difference": -0.0024482261872512544,
       "valid": true
     },
     {
       "draw": 432,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.0024058093513103125,
+      "difference": -0.0024058249560121353,
       "valid": true
     },
     {
       "draw": 433,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0029978742363336052,
+      "difference": -0.002997885669385484,
       "valid": true
     },
     {
       "draw": 434,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.0018031105257146924,
+      "difference": -0.0018031143940519974,
       "valid": true
     },
     {
       "draw": 435,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0010288090593297443,
+      "difference": -0.001028818915385061,
       "valid": true
     },
     {
       "draw": 436,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.0028540817189354863,
+      "difference": -0.0028540923950302133,
       "valid": true
     },
     {
       "draw": 437,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.0014099243667529146,
+      "difference": -0.0014099338570059236,
       "valid": true
     },
     {
       "draw": 438,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.0029414414560103735,
+      "difference": -0.002941452062411059,
       "valid": true
     },
     {
       "draw": 439,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.004242303005492513,
+      "difference": -0.00424233132403532,
       "valid": true
     },
     {
       "draw": 440,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.0008506687746042846,
+      "difference": -0.0008506735527066231,
       "valid": true
     },
     {
       "draw": 441,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0013122679383809727,
+      "difference": -0.0013122689641838414,
       "valid": true
     },
     {
       "draw": 442,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0032133968390597204,
+      "difference": -0.0032134015225959356,
       "valid": true
     },
     {
       "draw": 443,
       "n_negative": 816,
       "n_positive": 833,
-      "difference": 0.0006961169189194725,
+      "difference": 0.0006961168939383588,
       "valid": true
     },
     {
       "draw": 444,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.0013368280235136914,
+      "difference": -0.00133683958704023,
       "valid": true
     },
     {
       "draw": 445,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": 0.0004061714472726641,
+      "difference": 0.0004061678969564985,
       "valid": true
     },
     {
       "draw": 446,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.005607362797124401,
+      "difference": -0.0056073777214774,
       "valid": true
     },
     {
       "draw": 447,
       "n_negative": 810,
       "n_positive": 839,
-      "difference": -0.002177170737128661,
+      "difference": -0.002177183514508081,
       "valid": true
     },
     {
       "draw": 448,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0034283132871508293,
+      "difference": -0.003428326465808591,
       "valid": true
     },
     {
       "draw": 449,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0025377658061086616,
+      "difference": -0.002537779105556703,
       "valid": true
     },
     {
       "draw": 450,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": 0.0006061948553953114,
+      "difference": 0.0006061826680904931,
       "valid": true
     },
     {
       "draw": 451,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.002961284813058271,
+      "difference": -0.0029612903184742263,
       "valid": true
     },
     {
       "draw": 452,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.002841553186338428,
+      "difference": -0.0028415620432775297,
       "valid": true
     },
     {
       "draw": 453,
       "n_negative": 866,
       "n_positive": 783,
-      "difference": -0.003477955837829421,
+      "difference": -0.003477969461093728,
       "valid": true
     },
     {
       "draw": 454,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.004042310173101032,
+      "difference": -0.004042328310307903,
       "valid": true
     },
     {
       "draw": 455,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0015370648654078152,
+      "difference": -0.0015370859195685332,
       "valid": true
     },
     {
       "draw": 456,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.004446589892354715,
+      "difference": -0.004446600702798752,
       "valid": true
     },
     {
       "draw": 457,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.0005135495952664651,
+      "difference": -0.0005135519426285923,
       "valid": true
     },
     {
       "draw": 458,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.003301392649900925,
+      "difference": -0.0033014074693612167,
       "valid": true
     },
     {
       "draw": 459,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0019968405722801197,
+      "difference": -0.0019968544818354515,
       "valid": true
     },
     {
       "draw": 460,
       "n_negative": 887,
       "n_positive": 762,
-      "difference": -0.0017223177755087086,
+      "difference": -0.0017223230032689366,
       "valid": true
     },
     {
       "draw": 461,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.00022362574664304066,
+      "difference": -0.0002236340135160918,
       "valid": true
     },
     {
       "draw": 462,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": 4.738418647087523e-05,
+      "difference": 4.73859151470833e-05,
       "valid": true
     },
     {
       "draw": 463,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.0012970319118228194,
+      "difference": -0.0012970442810173663,
       "valid": true
     },
     {
       "draw": 464,
       "n_negative": 873,
       "n_positive": 776,
-      "difference": -0.0008486718415798083,
+      "difference": -0.0008486788150559981,
       "valid": true
     },
     {
       "draw": 465,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.0004680332895890581,
+      "difference": -0.0004680384425561298,
       "valid": true
     },
     {
       "draw": 466,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0009283320056667151,
+      "difference": -0.0009283521009703885,
       "valid": true
     },
     {
       "draw": 467,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.0027648915724215973,
+      "difference": -0.0027649016749255154,
       "valid": true
     },
     {
       "draw": 468,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.004937370523353059,
+      "difference": -0.0049373859054874705,
       "valid": true
     },
     {
       "draw": 469,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.0030057033234419522,
+      "difference": -0.0030057218780056437,
       "valid": true
     },
     {
       "draw": 470,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.004974886660425748,
+      "difference": -0.00497490571078851,
       "valid": true
     },
     {
       "draw": 471,
       "n_negative": 861,
       "n_positive": 788,
-      "difference": -0.0018131288877189177,
+      "difference": -0.001813132360006868,
       "valid": true
     },
     {
       "draw": 472,
       "n_negative": 859,
       "n_positive": 790,
-      "difference": -0.0015686630102123805,
+      "difference": -0.0015686681411824627,
       "valid": true
     },
     {
       "draw": 473,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.001630319727807622,
+      "difference": -0.0016303308317228416,
       "valid": true
     },
     {
       "draw": 474,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.0009381449852623835,
+      "difference": -0.0009381503977037581,
       "valid": true
     },
     {
       "draw": 475,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.003476990825281783,
+      "difference": -0.003476999936206854,
       "valid": true
     },
     {
       "draw": 476,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.0018973988517978282,
+      "difference": -0.0018974204084994308,
       "valid": true
     },
     {
       "draw": 477,
       "n_negative": 870,
       "n_positive": 779,
-      "difference": -0.00017627565922121358,
+      "difference": -0.00017628844929864075,
       "valid": true
     },
     {
       "draw": 478,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.003490492721755163,
+      "difference": -0.003490498503297279,
       "valid": true
     },
     {
       "draw": 479,
       "n_negative": 808,
       "n_positive": 841,
-      "difference": -0.0044027970120493675,
+      "difference": -0.004402811136383908,
       "valid": true
     },
     {
       "draw": 480,
       "n_negative": 872,
       "n_positive": 777,
-      "difference": -0.0020976271149292,
+      "difference": -0.002097641794325101,
       "valid": true
     },
     {
       "draw": 481,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.004169604812410161,
+      "difference": -0.004169631698644528,
       "valid": true
     },
     {
       "draw": 482,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.00011997964299634008,
+      "difference": -0.00011999065603728878,
       "valid": true
     },
     {
       "draw": 483,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0009366991888019664,
+      "difference": -0.0009367059008514878,
       "valid": true
     },
     {
       "draw": 484,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.003999172830721068,
+      "difference": -0.003999191141467715,
       "valid": true
     },
     {
       "draw": 485,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.0034906297933499472,
+      "difference": -0.0034906449273096026,
       "valid": true
     },
     {
       "draw": 486,
       "n_negative": 876,
       "n_positive": 773,
-      "difference": -0.0010865254384706089,
+      "difference": -0.001086530984583218,
       "valid": true
     },
     {
       "draw": 487,
       "n_negative": 861,
       "n_positive": 788,
-      "difference": -0.0033595856149832757,
+      "difference": -0.003359601716863918,
       "valid": true
     },
     {
       "draw": 488,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.0019445100515079151,
+      "difference": -0.0019445202811032279,
       "valid": true
     },
     {
       "draw": 489,
       "n_negative": 803,
       "n_positive": 846,
-      "difference": -0.0022533263820418608,
+      "difference": -0.0022533379385044055,
       "valid": true
     },
     {
       "draw": 490,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": 0.0002010629915507198,
+      "difference": 0.00020105061801950597,
       "valid": true
     },
     {
       "draw": 491,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0016400898730548415,
+      "difference": -0.0016400917723585074,
       "valid": true
     },
     {
       "draw": 492,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.0021249718448075276,
+      "difference": -0.0021249882467855663,
       "valid": true
     },
     {
       "draw": 493,
       "n_negative": 870,
       "n_positive": 779,
-      "difference": -0.00196293133353807,
+      "difference": -0.0019629325997746277,
       "valid": true
     },
     {
       "draw": 494,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.005440925911726953,
+      "difference": -0.005440945381449154,
       "valid": true
     },
     {
       "draw": 495,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.003780715585467105,
+      "difference": -0.0037807248845720108,
       "valid": true
     },
     {
       "draw": 496,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.00121990174144858,
+      "difference": -0.0012199218434667948,
       "valid": true
     },
     {
       "draw": 497,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.002454153928759436,
+      "difference": -0.0024541692523227694,
       "valid": true
     },
     {
       "draw": 498,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0023052344542177656,
+      "difference": -0.002305251851672887,
       "valid": true
     },
     {
       "draw": 499,
       "n_negative": 808,
       "n_positive": 841,
-      "difference": -0.0019571588205537383,
+      "difference": -0.0019571663999936742,
       "valid": true
     },
     {
       "draw": 500,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.0005505925860979925,
+      "difference": -0.0005506060001931779,
       "valid": true
     },
     {
       "draw": 501,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0026477894168695265,
+      "difference": -0.0026478027706515724,
       "valid": true
     },
     {
       "draw": 502,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.004318839451944206,
+      "difference": -0.004318849591929909,
       "valid": true
     },
     {
       "draw": 503,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.0004664849763183455,
+      "difference": -0.0004664971709852488,
       "valid": true
     },
     {
       "draw": 504,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.005868602811495875,
+      "difference": -0.005868613917604759,
       "valid": true
     },
     {
       "draw": 505,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.0019397309639735702,
+      "difference": -0.001939741268951763,
       "valid": true
     },
     {
       "draw": 506,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0033811606210000676,
+      "difference": -0.003381173184597418,
       "valid": true
     },
     {
       "draw": 507,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0017710526124846454,
+      "difference": -0.001771062840936105,
       "valid": true
     },
     {
       "draw": 508,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.00048690170007169894,
+      "difference": -0.0004869123219181818,
       "valid": true
     },
     {
       "draw": 509,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.0030156773581092914,
+      "difference": -0.0030156908636133797,
       "valid": true
     },
     {
       "draw": 510,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0010480669742029857,
+      "difference": -0.001048075772897304,
       "valid": true
     },
     {
       "draw": 511,
       "n_negative": 810,
       "n_positive": 839,
-      "difference": -0.0037634889941897706,
+      "difference": -0.003763499996517978,
       "valid": true
     },
     {
       "draw": 512,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.0021610043829260756,
+      "difference": -0.0021610144161247997,
       "valid": true
     },
     {
       "draw": 513,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.005875399980122273,
+      "difference": -0.005875409444281878,
       "valid": true
     },
     {
       "draw": 514,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.0006860861289608784,
+      "difference": -0.0006860947048959558,
       "valid": true
     },
     {
       "draw": 515,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.006374400396593082,
+      "difference": -0.0063744184229423346,
       "valid": true
     },
     {
       "draw": 516,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0025795754978508874,
+      "difference": -0.002579579197788959,
       "valid": true
     },
     {
       "draw": 517,
       "n_negative": 866,
       "n_positive": 783,
-      "difference": -0.0038855657723549713,
+      "difference": -0.0038855790880259803,
       "valid": true
     },
     {
       "draw": 518,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.00206027627575793,
+      "difference": -0.002060284080266442,
       "valid": true
     },
     {
       "draw": 519,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.0005589584215609372,
+      "difference": -0.0005589721461175475,
       "valid": true
     },
     {
       "draw": 520,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.002571838573194171,
+      "difference": -0.0025718509972369355,
       "valid": true
     },
     {
       "draw": 521,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0021658019603267064,
+      "difference": -0.0021658089331531615,
       "valid": true
     },
     {
       "draw": 522,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.005142200406828078,
+      "difference": -0.005142209669504694,
       "valid": true
     },
     {
       "draw": 523,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0010054916281967284,
+      "difference": -0.0010055054686391915,
       "valid": true
     },
     {
       "draw": 524,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.00217997095237477,
+      "difference": -0.002179978304911396,
       "valid": true
     },
     {
       "draw": 525,
       "n_negative": 800,
       "n_positive": 849,
-      "difference": -0.0013332940685003526,
+      "difference": -0.0013332982737265559,
       "valid": true
     },
     {
       "draw": 526,
       "n_negative": 820,
       "n_positive": 829,
-      "difference": -0.002413402350282431,
+      "difference": -0.0024134143530237565,
       "valid": true
     },
     {
       "draw": 527,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0020925475276029858,
+      "difference": -0.00209255732038374,
       "valid": true
     },
     {
       "draw": 528,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.0012363724570147107,
+      "difference": -0.001236376857548375,
       "valid": true
     },
     {
       "draw": 529,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": 2.8291515350524032e-05,
+      "difference": 2.8286850845907273e-05,
       "valid": true
     },
     {
       "draw": 530,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.0019899141526729257,
+      "difference": -0.0019899240664804584,
       "valid": true
     },
     {
       "draw": 531,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.002624590215963031,
+      "difference": -0.002624599395678816,
       "valid": true
     },
     {
       "draw": 532,
       "n_negative": 816,
       "n_positive": 833,
-      "difference": -0.0014407216577633378,
+      "difference": -0.001440732257271832,
       "valid": true
     },
     {
       "draw": 533,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": 0.0007858708864332632,
+      "difference": 0.0007858638457981752,
       "valid": true
     },
     {
       "draw": 534,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.0036518915578919375,
+      "difference": -0.003651898868954615,
       "valid": true
     },
     {
       "draw": 535,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0038840526032837747,
+      "difference": -0.003884060379330035,
       "valid": true
     },
     {
       "draw": 536,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.0009145148002045609,
+      "difference": -0.0009145299054601345,
       "valid": true
     },
     {
       "draw": 537,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.000992037299921574,
+      "difference": -0.0009920359415832734,
       "valid": true
     },
     {
       "draw": 538,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0013049859568560781,
+      "difference": -0.001304987284383497,
       "valid": true
     },
     {
       "draw": 539,
       "n_negative": 881,
       "n_positive": 768,
-      "difference": -0.002595644867486138,
+      "difference": -0.0025956669640129024,
       "valid": true
     },
     {
       "draw": 540,
       "n_negative": 816,
       "n_positive": 833,
-      "difference": -0.0017298369138427283,
+      "difference": -0.0017298380995167584,
       "valid": true
     },
     {
       "draw": 541,
       "n_negative": 810,
       "n_positive": 839,
-      "difference": -0.0008717794787970657,
+      "difference": -0.0008717942127513939,
       "valid": true
     },
     {
       "draw": 542,
       "n_negative": 872,
       "n_positive": 777,
-      "difference": -0.00032978421113628246,
+      "difference": -0.0003297922604045033,
       "valid": true
     },
     {
       "draw": 543,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.0013837297516902393,
+      "difference": -0.0013837276406668787,
       "valid": true
     },
     {
       "draw": 544,
       "n_negative": 880,
       "n_positive": 769,
-      "difference": -0.0035550006275899856,
+      "difference": -0.0035550084351103316,
       "valid": true
     },
     {
       "draw": 545,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.0012465113163425382,
+      "difference": -0.0012465195579173956,
       "valid": true
     },
     {
       "draw": 546,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0015680334524321533,
+      "difference": -0.0015680447459673187,
       "valid": true
     },
     {
       "draw": 547,
       "n_negative": 799,
       "n_positive": 850,
-      "difference": -0.0011950817016924244,
+      "difference": -0.00119509044110308,
       "valid": true
     },
     {
       "draw": 548,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.005658580001343483,
+      "difference": -0.005658590435539714,
       "valid": true
     },
     {
       "draw": 549,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": 0.0002900236822986482,
+      "difference": 0.0002900204327913646,
       "valid": true
     },
     {
       "draw": 550,
       "n_negative": 861,
       "n_positive": 788,
-      "difference": -0.0012645308623852863,
+      "difference": -0.001264537099788618,
       "valid": true
     },
     {
       "draw": 551,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.004740426753582787,
+      "difference": -0.0047404365542766825,
       "valid": true
     },
     {
       "draw": 552,
       "n_negative": 805,
       "n_positive": 844,
-      "difference": -0.0022092136828160266,
+      "difference": -0.002209220286726014,
       "valid": true
     },
     {
       "draw": 553,
       "n_negative": 810,
       "n_positive": 839,
-      "difference": -0.005374298927462498,
+      "difference": -0.005374312261274464,
       "valid": true
     },
     {
       "draw": 554,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0013818496739955897,
+      "difference": -0.0013818515562244197,
       "valid": true
     },
     {
       "draw": 555,
       "n_negative": 813,
       "n_positive": 836,
-      "difference": -0.0025358240597850683,
+      "difference": -0.0025358394298955807,
       "valid": true
     },
     {
       "draw": 556,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.004687815118312047,
+      "difference": -0.004687832521283323,
       "valid": true
     },
     {
       "draw": 557,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0032080779120678858,
+      "difference": -0.00320809050529495,
       "valid": true
     },
     {
       "draw": 558,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": -0.0022824087352280994,
+      "difference": -0.002282414219822541,
       "valid": true
     },
     {
       "draw": 559,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.0009196612935720662,
+      "difference": -0.0009196740549885161,
       "valid": true
     },
     {
       "draw": 560,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.003910643970756671,
+      "difference": -0.003910655961113226,
       "valid": true
     },
     {
       "draw": 561,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.0009703021746942712,
+      "difference": -0.0009703142199765525,
       "valid": true
     },
     {
       "draw": 562,
       "n_negative": 869,
       "n_positive": 780,
-      "difference": 0.00041060362329466344,
+      "difference": 0.0004105963493721849,
       "valid": true
     },
     {
       "draw": 563,
       "n_negative": 827,
       "n_positive": 822,
-      "difference": -0.0006485425143479219,
+      "difference": -0.0006485541663602604,
       "valid": true
     },
     {
       "draw": 564,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0013784051156374563,
+      "difference": -0.001378410914280904,
       "valid": true
     },
     {
       "draw": 565,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": 0.0013714914019620945,
+      "difference": 0.0013714861306903393,
       "valid": true
     },
     {
       "draw": 566,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": 0.0002742328837321345,
+      "difference": 0.0002742262012234165,
       "valid": true
     },
     {
       "draw": 567,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.0013850201169997053,
+      "difference": -0.0013850363192614043,
       "valid": true
     },
     {
       "draw": 568,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0011114376222396772,
+      "difference": -0.001111448503163849,
       "valid": true
     },
     {
       "draw": 569,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0009347651348028782,
+      "difference": -0.0009347657595373614,
       "valid": true
     },
     {
       "draw": 570,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.00309933287337573,
+      "difference": -0.0030993359184678174,
       "valid": true
     },
     {
       "draw": 571,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0020395929437672542,
+      "difference": -0.002039601317234906,
       "valid": true
     },
     {
       "draw": 572,
       "n_negative": 816,
       "n_positive": 833,
-      "difference": -0.001347988386673792,
+      "difference": -0.0013480037523675866,
       "valid": true
     },
     {
       "draw": 573,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.0014625765947081418,
+      "difference": -0.0014625848488675236,
       "valid": true
     },
     {
       "draw": 574,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.000468051856714045,
+      "difference": -0.0004680524106799993,
       "valid": true
     },
     {
       "draw": 575,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": 0.0005134673024490008,
+      "difference": 0.000513464270183388,
       "valid": true
     },
     {
       "draw": 576,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.004678951525554869,
+      "difference": -0.004678970049574315,
       "valid": true
     },
     {
       "draw": 577,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.00315127177480657,
+      "difference": -0.0031512783535945295,
       "valid": true
     },
     {
       "draw": 578,
       "n_negative": 874,
       "n_positive": 775,
-      "difference": -0.0019074710022323478,
+      "difference": -0.0019074760353777905,
       "valid": true
     },
     {
       "draw": 579,
       "n_negative": 882,
       "n_positive": 767,
-      "difference": -0.0055840018188359555,
+      "difference": -0.005584018874034781,
       "valid": true
     },
     {
       "draw": 580,
       "n_negative": 810,
       "n_positive": 839,
-      "difference": -0.0036253106553137842,
+      "difference": -0.0036253260085931036,
       "valid": true
     },
     {
       "draw": 581,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.002927001512169055,
+      "difference": -0.0029270226346889395,
       "valid": true
     },
     {
       "draw": 582,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.001738218860369318,
+      "difference": -0.0017382317812549637,
       "valid": true
     },
     {
       "draw": 583,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.0020043548990925876,
+      "difference": -0.0020043612091962186,
       "valid": true
     },
     {
       "draw": 584,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0028772903119915283,
+      "difference": -0.0028772977860829834,
       "valid": true
     },
     {
       "draw": 585,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.0014791265173343584,
+      "difference": -0.001479133460350883,
       "valid": true
     },
     {
       "draw": 586,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": -0.0022832444664234335,
+      "difference": -0.002283255326449937,
       "valid": true
     },
     {
       "draw": 587,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.0018450812923331019,
+      "difference": -0.0018450884715072598,
       "valid": true
     },
     {
       "draw": 588,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.0031856772606583413,
+      "difference": -0.0031856989728516094,
       "valid": true
     },
     {
       "draw": 589,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.003627256608690831,
+      "difference": -0.003627269336488409,
       "valid": true
     },
     {
       "draw": 590,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0016707017023455705,
+      "difference": -0.0016707077551126209,
       "valid": true
     },
     {
       "draw": 591,
       "n_negative": 801,
       "n_positive": 848,
-      "difference": -0.00043379549605373623,
+      "difference": -0.0004338062160213809,
       "valid": true
     },
     {
       "draw": 592,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.0028788872048212664,
+      "difference": -0.0028788964048758986,
       "valid": true
     },
     {
       "draw": 593,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.002831920223706476,
+      "difference": -0.002831926871186755,
       "valid": true
     },
     {
       "draw": 594,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.000988214533745804,
+      "difference": -0.0009882263155224073,
       "valid": true
     },
     {
       "draw": 595,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0037471125656968573,
+      "difference": -0.0037471192682063956,
       "valid": true
     },
     {
       "draw": 596,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.003772259964809201,
+      "difference": -0.0037722715962706034,
       "valid": true
     },
     {
       "draw": 597,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.002723136301474324,
+      "difference": -0.002723152058564176,
       "valid": true
     },
     {
       "draw": 598,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.002839194541442933,
+      "difference": -0.0028392052934769737,
       "valid": true
     },
     {
       "draw": 599,
       "n_negative": 803,
       "n_positive": 846,
-      "difference": -0.004253233977762727,
+      "difference": -0.004253241003859761,
       "valid": true
     },
     {
       "draw": 600,
       "n_negative": 859,
       "n_positive": 790,
-      "difference": -0.0012418949687976254,
+      "difference": -0.0012419029625010648,
       "valid": true
     },
     {
       "draw": 601,
       "n_negative": 816,
       "n_positive": 833,
-      "difference": -0.0009352460470528033,
+      "difference": -0.000935258218812087,
       "valid": true
     },
     {
       "draw": 602,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.001527588891016585,
+      "difference": -0.0015276129375845129,
       "valid": true
     },
     {
       "draw": 603,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0018947302520271345,
+      "difference": -0.0018947379256843712,
       "valid": true
     },
     {
       "draw": 604,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.001631031748504571,
+      "difference": -0.001631044668638329,
       "valid": true
     },
     {
       "draw": 605,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.0017146808470920323,
+      "difference": -0.0017146857061204604,
       "valid": true
     },
     {
       "draw": 606,
       "n_negative": 872,
       "n_positive": 777,
-      "difference": -0.0002965231100048605,
+      "difference": -0.0002965390683811283,
       "valid": true
     },
     {
       "draw": 607,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.001502318653914272,
+      "difference": -0.0015023406737001777,
       "valid": true
     },
     {
       "draw": 608,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.004641637107642727,
+      "difference": -0.0046416539190266976,
       "valid": true
     },
     {
       "draw": 609,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.0008004104930949897,
+      "difference": -0.0008004138849338404,
       "valid": true
     },
     {
       "draw": 610,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0029410092275154675,
+      "difference": -0.002941011428815332,
       "valid": true
     },
     {
       "draw": 611,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.0029848038789222027,
+      "difference": -0.002984819645560159,
       "valid": true
     },
     {
       "draw": 612,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.00038674883305200446,
+      "difference": -0.0003867597477261875,
       "valid": true
     },
     {
       "draw": 613,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.0004921729974991559,
+      "difference": -0.0004921785051962919,
       "valid": true
     },
     {
       "draw": 614,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": -0.0040890502388180846,
+      "difference": -0.004089060880050423,
       "valid": true
     },
     {
       "draw": 615,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.0013302526201294609,
+      "difference": -0.0013302689296391893,
       "valid": true
     },
     {
       "draw": 616,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.0016219567704433271,
+      "difference": -0.0016219700218373617,
       "valid": true
     },
     {
       "draw": 617,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0031728944534332635,
+      "difference": -0.0031729114804587544,
       "valid": true
     },
     {
       "draw": 618,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.00306215671446972,
+      "difference": -0.0030621615230924226,
       "valid": true
     },
     {
       "draw": 619,
       "n_negative": 876,
       "n_positive": 773,
-      "difference": -0.002635864983246342,
+      "difference": -0.0026358752168784494,
       "valid": true
     },
     {
       "draw": 620,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0023364777073730577,
+      "difference": -0.0023364911525603532,
       "valid": true
     },
     {
       "draw": 621,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.004399335428520874,
+      "difference": -0.004399350924134794,
       "valid": true
     },
     {
       "draw": 622,
       "n_negative": 820,
       "n_positive": 829,
-      "difference": -0.00444168753663855,
+      "difference": -0.004441704235647661,
       "valid": true
     },
     {
       "draw": 623,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0023277853482389305,
+      "difference": -0.002327788877167055,
       "valid": true
     },
     {
       "draw": 624,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": -0.002001763779111089,
+      "difference": -0.002001784364924061,
       "valid": true
     },
     {
       "draw": 625,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.00558331151552284,
+      "difference": -0.005583313530188749,
       "valid": true
     },
     {
       "draw": 626,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.003012990889144769,
+      "difference": -0.0030130071647277495,
       "valid": true
     },
     {
       "draw": 627,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0035707775459242505,
+      "difference": -0.003570777523208443,
       "valid": true
     },
     {
       "draw": 628,
       "n_negative": 866,
       "n_positive": 783,
-      "difference": -0.002250025338655602,
+      "difference": -0.0022500331262245324,
       "valid": true
     },
     {
       "draw": 629,
       "n_negative": 869,
       "n_positive": 780,
-      "difference": -0.0013843357540097518,
+      "difference": -0.00138435327766011,
       "valid": true
     },
     {
       "draw": 630,
       "n_negative": 870,
       "n_positive": 779,
-      "difference": -0.002318246045138641,
+      "difference": -0.0023182601625006873,
       "valid": true
     },
     {
       "draw": 631,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.00016700715129542426,
+      "difference": -0.0001670178068784563,
       "valid": true
     },
     {
       "draw": 632,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.002839791976518472,
+      "difference": -0.00283981006742469,
       "valid": true
     },
     {
       "draw": 633,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0039610446747413,
+      "difference": -0.00396106122184861,
       "valid": true
     },
     {
       "draw": 634,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.001310809633870739,
+      "difference": -0.0013108184784730277,
       "valid": true
     },
     {
       "draw": 635,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.002631743948295639,
+      "difference": -0.002631758706849476,
       "valid": true
     },
     {
       "draw": 636,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.001623412182458572,
+      "difference": -0.0016234167701821138,
       "valid": true
     },
     {
       "draw": 637,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.004184781093155613,
+      "difference": -0.0041847931644842734,
       "valid": true
     },
     {
       "draw": 638,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.0017206712048545686,
+      "difference": -0.001720682051098032,
       "valid": true
     },
     {
       "draw": 639,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0004614457661913586,
+      "difference": -0.00046146058380126917,
       "valid": true
     },
     {
       "draw": 640,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.0032275671775924297,
+      "difference": -0.003227579204665333,
       "valid": true
     },
     {
       "draw": 641,
       "n_negative": 874,
       "n_positive": 775,
-      "difference": -0.0013725429962790122,
+      "difference": -0.0013725535425522472,
       "valid": true
     },
     {
       "draw": 642,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.005728445675833369,
+      "difference": -0.0057284634774325445,
       "valid": true
     },
     {
       "draw": 643,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.0012920613781742377,
+      "difference": -0.0012920669217328774,
       "valid": true
     },
     {
       "draw": 644,
       "n_negative": 799,
       "n_positive": 850,
-      "difference": -0.0010569653377013697,
+      "difference": -0.00105698031460799,
       "valid": true
     },
     {
       "draw": 645,
       "n_negative": 802,
       "n_positive": 847,
-      "difference": -0.0001546887187385327,
+      "difference": -0.00015469329768172022,
       "valid": true
     },
     {
       "draw": 646,
       "n_negative": 882,
       "n_positive": 767,
-      "difference": -0.0026813596910270267,
+      "difference": -0.002681368008602855,
       "valid": true
     },
     {
       "draw": 647,
       "n_negative": 804,
       "n_positive": 845,
-      "difference": -0.0018477159415343771,
+      "difference": -0.001847725943575543,
       "valid": true
     },
     {
       "draw": 648,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.004934101572340104,
+      "difference": -0.004934113569923396,
       "valid": true
     },
     {
       "draw": 649,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0004402494070778354,
+      "difference": -0.0004402490470638827,
       "valid": true
     },
     {
       "draw": 650,
       "n_negative": 866,
       "n_positive": 783,
-      "difference": -0.0002191435330111003,
+      "difference": -0.00021915390783376902,
       "valid": true
     },
     {
       "draw": 651,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.0014184495927565678,
+      "difference": -0.001418456416598299,
       "valid": true
     },
     {
       "draw": 652,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.002824945957638591,
+      "difference": -0.00282494991301269,
       "valid": true
     },
     {
       "draw": 653,
       "n_negative": 803,
       "n_positive": 846,
-      "difference": -0.0007558452598863063,
+      "difference": -0.0007558574040291762,
       "valid": true
     },
     {
       "draw": 654,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0009360451523772112,
+      "difference": -0.0009360604421680858,
       "valid": true
     },
     {
       "draw": 655,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0038000727898443365,
+      "difference": -0.003800086195058233,
       "valid": true
     },
     {
       "draw": 656,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.002326886919422593,
+      "difference": -0.0023268997847533295,
       "valid": true
     },
     {
       "draw": 657,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0033531828079944974,
+      "difference": -0.0033531908107292526,
       "valid": true
     },
     {
       "draw": 658,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": 0.0014185487965415896,
+      "difference": 0.0014185437144157553,
       "valid": true
     },
     {
       "draw": 659,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.000958471619572996,
+      "difference": -0.0009584705084358027,
       "valid": true
     },
     {
       "draw": 660,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.0017968732641462418,
+      "difference": -0.001796884548650125,
       "valid": true
     },
     {
       "draw": 661,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0020834714563850473,
+      "difference": -0.002083475626132254,
       "valid": true
     },
     {
       "draw": 662,
       "n_negative": 801,
       "n_positive": 848,
-      "difference": -0.0025734330315192967,
+      "difference": -0.002573439916577623,
       "valid": true
     },
     {
       "draw": 663,
       "n_negative": 875,
       "n_positive": 774,
-      "difference": -0.0011288504928434868,
+      "difference": -0.0011288590550189246,
       "valid": true
     },
     {
       "draw": 664,
       "n_negative": 872,
       "n_positive": 777,
-      "difference": -0.004001758645925406,
+      "difference": -0.004001769704527451,
       "valid": true
     },
     {
       "draw": 665,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.001100957940900297,
+      "difference": -0.001100966285560164,
       "valid": true
     },
     {
       "draw": 666,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.0021318920737427426,
+      "difference": -0.0021318947990129596,
       "valid": true
     },
     {
       "draw": 667,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.0002992460497019488,
+      "difference": -0.00029926149007911904,
       "valid": true
     },
     {
       "draw": 668,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0035426660277575513,
+      "difference": -0.003542690487356943,
       "valid": true
     },
     {
       "draw": 669,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.004304277612367226,
+      "difference": -0.0043042928349942555,
       "valid": true
     },
     {
       "draw": 670,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.004092672701373314,
+      "difference": -0.004092681111688158,
       "valid": true
     },
     {
       "draw": 671,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.004926985118783986,
+      "difference": -0.0049270033337819735,
       "valid": true
     },
     {
       "draw": 672,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0028647858294213045,
+      "difference": -0.002864805268952569,
       "valid": true
     },
     {
       "draw": 673,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0038606585166017474,
+      "difference": -0.0038606653989128074,
       "valid": true
     },
     {
       "draw": 674,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.0027728972452084684,
+      "difference": -0.0027729151970537803,
       "valid": true
     },
     {
       "draw": 675,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.004270286674476591,
+      "difference": -0.004270304461619708,
       "valid": true
     },
     {
       "draw": 676,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0025947103994628075,
+      "difference": -0.0025947120437932324,
       "valid": true
     },
     {
       "draw": 677,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.0030633767447862566,
+      "difference": -0.0030633861687184034,
       "valid": true
     },
     {
       "draw": 678,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.0010474177418676252,
+      "difference": -0.0010474267608983976,
       "valid": true
     },
     {
       "draw": 679,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.0018339321849543365,
+      "difference": -0.0018339437316992183,
       "valid": true
     },
     {
       "draw": 680,
       "n_negative": 870,
       "n_positive": 779,
-      "difference": -0.0027985847338416244,
+      "difference": -0.0027986044373257577,
       "valid": true
     },
     {
       "draw": 681,
       "n_negative": 906,
       "n_positive": 743,
-      "difference": -0.001348320284678317,
+      "difference": -0.0013483381675252772,
       "valid": true
     },
     {
       "draw": 682,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.002470030301341161,
+      "difference": -0.0024700498087063664,
       "valid": true
     },
     {
       "draw": 683,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": 7.147656503834056e-05,
+      "difference": 7.147192956710952e-05,
       "valid": true
     },
     {
       "draw": 684,
       "n_negative": 814,
       "n_positive": 835,
-      "difference": 0.0007885288342423222,
+      "difference": 0.0007885275081195042,
       "valid": true
     },
     {
       "draw": 685,
       "n_negative": 819,
       "n_positive": 830,
-      "difference": -0.001822264177670754,
+      "difference": -0.00182228353843025,
       "valid": true
     },
     {
       "draw": 686,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.004294006288851078,
+      "difference": -0.0042940225106711406,
       "valid": true
     },
     {
       "draw": 687,
       "n_negative": 880,
       "n_positive": 769,
-      "difference": -0.0019346815189747967,
+      "difference": -0.0019347001131825982,
       "valid": true
     },
     {
       "draw": 688,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": 0.0009599554410980411,
+      "difference": 0.0009599514108993969,
       "valid": true
     },
     {
       "draw": 689,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.00256322688216594,
+      "difference": -0.0025632397829601383,
       "valid": true
     },
     {
       "draw": 690,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.003659332270048656,
+      "difference": -0.003659348762855908,
       "valid": true
     },
     {
       "draw": 691,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0004075215937246496,
+      "difference": -0.0004075201873629317,
       "valid": true
     },
     {
       "draw": 692,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.002542406443687044,
+      "difference": -0.0025424143153633862,
       "valid": true
     },
     {
       "draw": 693,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0010440032804561196,
+      "difference": -0.0010440128123563974,
       "valid": true
     },
     {
       "draw": 694,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.001467315476933693,
+      "difference": -0.0014673241112026214,
       "valid": true
     },
     {
       "draw": 695,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.0016677776792670919,
+      "difference": -0.0016677868702443181,
       "valid": true
     },
     {
       "draw": 696,
       "n_negative": 874,
       "n_positive": 775,
-      "difference": -0.0027964931027473247,
+      "difference": -0.0027965051958302434,
       "valid": true
     },
     {
       "draw": 697,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.001281453657108851,
+      "difference": -0.0012814778112571947,
       "valid": true
     },
     {
       "draw": 698,
       "n_negative": 877,
       "n_positive": 772,
-      "difference": -0.0036556486816453253,
+      "difference": -0.00365565707092753,
       "valid": true
     },
     {
       "draw": 699,
       "n_negative": 803,
       "n_positive": 846,
-      "difference": -0.00014062838455681148,
+      "difference": -0.00014062797960853073,
       "valid": true
     },
     {
       "draw": 700,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.00039025375484210843,
+      "difference": -0.00039026517903402783,
       "valid": true
     },
     {
       "draw": 701,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.0011501929155062884,
+      "difference": -0.0011501989207721558,
       "valid": true
     },
     {
       "draw": 702,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.0027916449030962903,
+      "difference": -0.0027916584362000178,
       "valid": true
     },
     {
       "draw": 703,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.0022309005838782574,
+      "difference": -0.0022309140106462014,
       "valid": true
     },
     {
       "draw": 704,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0014187361334176384,
+      "difference": -0.0014187551022308102,
       "valid": true
     },
     {
       "draw": 705,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": 0.00010699814113383332,
+      "difference": 0.00010698925546504554,
       "valid": true
     },
     {
       "draw": 706,
       "n_negative": 859,
       "n_positive": 790,
-      "difference": -0.0008971720169233064,
+      "difference": -0.0008971782353532323,
       "valid": true
     },
     {
       "draw": 707,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.006202982947961513,
+      "difference": -0.006202994558198625,
       "valid": true
     },
     {
       "draw": 708,
       "n_negative": 816,
       "n_positive": 833,
-      "difference": -0.004795323526205626,
+      "difference": -0.00479533477924944,
       "valid": true
     },
     {
       "draw": 709,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.004412671301028626,
+      "difference": -0.004412690096308673,
       "valid": true
     },
     {
       "draw": 710,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.003470659965069092,
+      "difference": -0.0034706637832093968,
       "valid": true
     },
     {
       "draw": 711,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": 0.00012126962556530748,
+      "difference": 0.00012126503803059437,
       "valid": true
     },
     {
       "draw": 712,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0017263531341239087,
+      "difference": -0.00172636121107433,
       "valid": true
     },
     {
       "draw": 713,
       "n_negative": 809,
       "n_positive": 840,
-      "difference": -0.005061295397991825,
+      "difference": -0.005061312635209531,
       "valid": true
     },
     {
       "draw": 714,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.0012045778821353059,
+      "difference": -0.0012045831527722852,
       "valid": true
     },
     {
       "draw": 715,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -5.4956186088521756e-05,
+      "difference": -5.4958596911561545e-05,
       "valid": true
     },
     {
       "draw": 716,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.004106297088495675,
+      "difference": -0.00410630023958804,
       "valid": true
     },
     {
       "draw": 717,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.003190449682523011,
+      "difference": -0.003190468405358085,
       "valid": true
     },
     {
       "draw": 718,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0025621548543337184,
+      "difference": -0.0025621629775581796,
       "valid": true
     },
     {
       "draw": 719,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.004176181093316982,
+      "difference": -0.004176197599515325,
       "valid": true
     },
     {
       "draw": 720,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0040740399017655405,
+      "difference": -0.004074049587525631,
       "valid": true
     },
     {
       "draw": 721,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.001555223360085672,
+      "difference": -0.001555224980648778,
       "valid": true
     },
     {
       "draw": 722,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0034527227952926894,
+      "difference": -0.0034527334055008616,
       "valid": true
     },
     {
       "draw": 723,
       "n_negative": 877,
       "n_positive": 772,
-      "difference": -0.0032537674585943416,
+      "difference": -0.0032537802309524277,
       "valid": true
     },
     {
       "draw": 724,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.002468664520310596,
+      "difference": -0.0024686789267976857,
       "valid": true
     },
     {
       "draw": 725,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.0006371421970636312,
+      "difference": -0.0006371466622164166,
       "valid": true
     },
     {
       "draw": 726,
       "n_negative": 872,
       "n_positive": 777,
-      "difference": 0.00012633840460800317,
+      "difference": 0.000126333777671651,
       "valid": true
     },
     {
       "draw": 727,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.00370955646613582,
+      "difference": -0.00370956347827616,
       "valid": true
     },
     {
       "draw": 728,
       "n_negative": 876,
       "n_positive": 773,
-      "difference": -0.000990382117283419,
+      "difference": -0.0009903909079298362,
       "valid": true
     },
     {
       "draw": 729,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.004071023465423709,
+      "difference": -0.004071045176763402,
       "valid": true
     },
     {
       "draw": 730,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.002317190099162803,
+      "difference": -0.002317199582843053,
       "valid": true
     },
     {
       "draw": 731,
       "n_negative": 803,
       "n_positive": 846,
-      "difference": -0.0017868727509363631,
+      "difference": -0.0017868907131148794,
       "valid": true
     },
     {
       "draw": 732,
       "n_negative": 813,
       "n_positive": 836,
-      "difference": -0.0018901311781738968,
+      "difference": -0.0018901443541475295,
       "valid": true
     },
     {
       "draw": 733,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -7.171946883365737e-05,
+      "difference": -7.172234930067224e-05,
       "valid": true
     },
     {
       "draw": 734,
       "n_negative": 873,
       "n_positive": 776,
-      "difference": -0.0014441585029465534,
+      "difference": -0.001444169169528676,
       "valid": true
     },
     {
       "draw": 735,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.003810784730806363,
+      "difference": -0.003810797644023148,
       "valid": true
     },
     {
       "draw": 736,
       "n_negative": 792,
       "n_positive": 857,
-      "difference": -0.0004874547474620007,
+      "difference": -0.0004874585411538449,
       "valid": true
     },
     {
       "draw": 737,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.002715374545783402,
+      "difference": -0.002715381907027909,
       "valid": true
     },
     {
       "draw": 738,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0017766793024752178,
+      "difference": -0.0017766935248788467,
       "valid": true
     },
     {
       "draw": 739,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0028506502677711374,
+      "difference": -0.0028506573323178416,
       "valid": true
     },
     {
       "draw": 740,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0005594847836716267,
+      "difference": -0.0005594887183998833,
       "valid": true
     },
     {
       "draw": 741,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.0038246539751827734,
+      "difference": -0.0038246706859856386,
       "valid": true
     },
     {
       "draw": 742,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.003896289624347688,
+      "difference": -0.003896309978739151,
       "valid": true
     },
     {
       "draw": 743,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": -0.0005021050000863277,
+      "difference": -0.0005021199417582982,
       "valid": true
     },
     {
       "draw": 744,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0010018180929024965,
+      "difference": -0.0010018242790189016,
       "valid": true
     },
     {
       "draw": 745,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.0016878657385082157,
+      "difference": -0.001687876891344326,
       "valid": true
     },
     {
       "draw": 746,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.0020678097001573083,
+      "difference": -0.00206782004266588,
       "valid": true
     },
     {
       "draw": 747,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.0012974149725665219,
+      "difference": -0.0012974322189898764,
       "valid": true
     },
     {
       "draw": 748,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.003429224796764861,
+      "difference": -0.003429236099874459,
       "valid": true
     },
     {
       "draw": 749,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.003967883181891373,
+      "difference": -0.003967895375717505,
       "valid": true
     },
     {
       "draw": 750,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.000649579878141094,
+      "difference": -0.0006495948676069235,
       "valid": true
     },
     {
       "draw": 751,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.0011820311746353104,
+      "difference": -0.001182038755790541,
       "valid": true
     },
     {
       "draw": 752,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.0013110183889218146,
+      "difference": -0.0013110302592947466,
       "valid": true
     },
     {
       "draw": 753,
       "n_negative": 801,
       "n_positive": 848,
-      "difference": -0.004237115944250188,
+      "difference": -0.004237132407238283,
       "valid": true
     },
     {
       "draw": 754,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.0021223163848304617,
+      "difference": -0.00212232777358269,
       "valid": true
     },
     {
       "draw": 755,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.002647983808633613,
+      "difference": -0.0026479957795781627,
       "valid": true
     },
     {
       "draw": 756,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0003462965058959905,
+      "difference": -0.0003463060917249175,
       "valid": true
     },
     {
       "draw": 757,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.0037236445975478965,
+      "difference": -0.0037236553517602093,
       "valid": true
     },
     {
       "draw": 758,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.005415921819297211,
+      "difference": -0.005415942789438634,
       "valid": true
     },
     {
       "draw": 759,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.0017337355523320713,
+      "difference": -0.0017337541438548444,
       "valid": true
     },
     {
       "draw": 760,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0006490234848481119,
+      "difference": -0.0006490359742833586,
       "valid": true
     },
     {
       "draw": 761,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.0022805010809951007,
+      "difference": -0.0022805168117177236,
       "valid": true
     },
     {
       "draw": 762,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0014331385802194081,
+      "difference": -0.0014331482664815046,
       "valid": true
     },
     {
       "draw": 763,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.002393558994350069,
+      "difference": -0.0023935605153945754,
       "valid": true
     },
     {
       "draw": 764,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.0016974694914542092,
+      "difference": -0.0016974822410779607,
       "valid": true
     },
     {
       "draw": 765,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0013908205162224147,
+      "difference": -0.0013908374276313759,
       "valid": true
     },
     {
       "draw": 766,
       "n_negative": 897,
       "n_positive": 752,
-      "difference": -0.0006005046378192597,
+      "difference": -0.0006005067942464413,
       "valid": true
     },
     {
       "draw": 767,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.0038234722941838644,
+      "difference": -0.0038234812064146723,
       "valid": true
     },
     {
       "draw": 768,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.0028171915584871672,
+      "difference": -0.0028172027508841747,
       "valid": true
     },
     {
       "draw": 769,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.0038683470962471954,
+      "difference": -0.0038683642255885184,
       "valid": true
     },
     {
       "draw": 770,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.001125840192625199,
+      "difference": -0.0011258454072112197,
       "valid": true
     },
     {
       "draw": 771,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.0027791589446461117,
+      "difference": -0.002779167824601861,
       "valid": true
     },
     {
       "draw": 772,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.0021066180868331875,
+      "difference": -0.002106633809407685,
       "valid": true
     },
     {
       "draw": 773,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.002671128772925235,
+      "difference": -0.0026711382640320592,
       "valid": true
     },
     {
       "draw": 774,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.002049116556195404,
+      "difference": -0.0020491315219224675,
       "valid": true
     },
     {
       "draw": 775,
       "n_negative": 833,
       "n_positive": 816,
-      "difference": -0.001789087887264243,
+      "difference": -0.0017891004098676004,
       "valid": true
     },
     {
       "draw": 776,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.0008122100688706302,
+      "difference": -0.0008122283035231858,
       "valid": true
     },
     {
       "draw": 777,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.0022078656568451675,
+      "difference": -0.0022078734110997818,
       "valid": true
     },
     {
       "draw": 778,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0009997476097048912,
+      "difference": -0.0009997612358767084,
       "valid": true
     },
     {
       "draw": 779,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.00042402807894667945,
+      "difference": -0.0004240390042061711,
       "valid": true
     },
     {
       "draw": 780,
       "n_negative": 819,
       "n_positive": 830,
-      "difference": -0.001710572464536186,
+      "difference": -0.0017105886524580584,
       "valid": true
     },
     {
       "draw": 781,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.002549652810598062,
+      "difference": -0.0025496569739175043,
       "valid": true
     },
     {
       "draw": 782,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": -0.0008716119980853149,
+      "difference": -0.0008716279540853639,
       "valid": true
     },
     {
       "draw": 783,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.002353535663963585,
+      "difference": -0.0023535487935866465,
       "valid": true
     },
     {
       "draw": 784,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.002408941270783361,
+      "difference": -0.002408953927278359,
       "valid": true
     },
     {
       "draw": 785,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.002240818970680399,
+      "difference": -0.002240826984137676,
       "valid": true
     },
     {
       "draw": 786,
       "n_negative": 811,
       "n_positive": 838,
-      "difference": -0.0025245618587287477,
+      "difference": -0.0025245824230248405,
       "valid": true
     },
     {
       "draw": 787,
       "n_negative": 808,
       "n_positive": 841,
-      "difference": -0.0008866354251523242,
+      "difference": -0.0008866393242304036,
       "valid": true
     },
     {
       "draw": 788,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.003396481576589202,
+      "difference": -0.0033964926659336026,
       "valid": true
     },
     {
       "draw": 789,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.0031953408985600784,
+      "difference": -0.003195348909017316,
       "valid": true
     },
     {
       "draw": 790,
       "n_negative": 813,
       "n_positive": 836,
-      "difference": -2.1905177764606327e-05,
+      "difference": -2.1913789859766817e-05,
       "valid": true
     },
     {
       "draw": 791,
       "n_negative": 886,
       "n_positive": 763,
-      "difference": -0.0017748284721170796,
+      "difference": -0.0017748275439077228,
       "valid": true
     },
     {
       "draw": 792,
       "n_negative": 807,
       "n_positive": 842,
-      "difference": -0.005064900948592629,
+      "difference": -0.005064905287226694,
       "valid": true
     },
     {
       "draw": 793,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.0013153091070155945,
+      "difference": -0.0013153230025099178,
       "valid": true
     },
     {
       "draw": 794,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.003255170498502549,
+      "difference": -0.003255183970081863,
       "valid": true
     },
     {
       "draw": 795,
       "n_negative": 816,
       "n_positive": 833,
-      "difference": -0.001960442089706776,
+      "difference": -0.00196045054682063,
       "valid": true
     },
     {
       "draw": 796,
       "n_negative": 821,
       "n_positive": 828,
-      "difference": -0.001925075338163379,
+      "difference": -0.0019250851783043433,
       "valid": true
     },
     {
       "draw": 797,
       "n_negative": 878,
       "n_positive": 771,
-      "difference": -0.0033369650990251174,
+      "difference": -0.003336980524851606,
       "valid": true
     },
     {
       "draw": 798,
       "n_negative": 878,
       "n_positive": 771,
-      "difference": 0.00041985673880857565,
+      "difference": 0.00041985481135227844,
       "valid": true
     },
     {
       "draw": 799,
       "n_negative": 865,
       "n_positive": 784,
-      "difference": -0.003047157098693968,
+      "difference": -0.0030471619845558436,
       "valid": true
     },
     {
       "draw": 800,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.0008538463067186416,
+      "difference": -0.0008538568181299783,
       "valid": true
     },
     {
       "draw": 801,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0038323341582634967,
+      "difference": -0.003832351459092014,
       "valid": true
     },
     {
       "draw": 802,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": -0.0015166286305402664,
+      "difference": -0.0015166396459389063,
       "valid": true
     },
     {
       "draw": 803,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.003374894168120998,
+      "difference": -0.003374906056204954,
       "valid": true
     },
     {
       "draw": 804,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.000584630561481083,
+      "difference": -0.0005846388914989764,
       "valid": true
     },
     {
       "draw": 805,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": 0.00012129399349504022,
+      "difference": 0.00012128813291677784,
       "valid": true
     },
     {
       "draw": 806,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.0023738674906385792,
+      "difference": -0.00237389053693049,
       "valid": true
     },
     {
       "draw": 807,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0007987558647343507,
+      "difference": -0.000798762944021494,
       "valid": true
     },
     {
       "draw": 808,
       "n_negative": 869,
       "n_positive": 780,
-      "difference": -0.0032291336236373747,
+      "difference": -0.0032291576614160173,
       "valid": true
     },
     {
       "draw": 809,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.0028596969307041423,
+      "difference": -0.002859717599205721,
       "valid": true
     },
     {
       "draw": 810,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0029739021508093325,
+      "difference": -0.0029739117758909766,
       "valid": true
     },
     {
       "draw": 811,
       "n_negative": 809,
       "n_positive": 840,
-      "difference": -0.0035063767287494695,
+      "difference": -0.0035063940181168656,
       "valid": true
     },
     {
       "draw": 812,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.00399603896571882,
+      "difference": -0.003996069254623055,
       "valid": true
     },
     {
       "draw": 813,
       "n_negative": 805,
       "n_positive": 844,
-      "difference": -0.002452740947370703,
+      "difference": -0.0024527472190349607,
       "valid": true
     },
     {
       "draw": 814,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.003615387064428003,
+      "difference": -0.003615410408494143,
       "valid": true
     },
     {
       "draw": 815,
       "n_negative": 919,
       "n_positive": 730,
-      "difference": -0.0027441555409545636,
+      "difference": -0.00274416869061531,
       "valid": true
     },
     {
       "draw": 816,
       "n_negative": 799,
       "n_positive": 850,
-      "difference": -0.0026578674038639357,
+      "difference": -0.0026578871245919004,
       "valid": true
     },
     {
       "draw": 817,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.0007498361149783293,
+      "difference": -0.0007498472809187212,
       "valid": true
     },
     {
       "draw": 818,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.0007909357327900539,
+      "difference": -0.0007909501017971354,
       "valid": true
     },
     {
       "draw": 819,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.0006201648868839645,
+      "difference": -0.0006201785117917719,
       "valid": true
     },
     {
       "draw": 820,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.0013525208889731237,
+      "difference": -0.0013525355716778858,
       "valid": true
     },
     {
       "draw": 821,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": 0.0002795168890118182,
+      "difference": 0.00027951988914644125,
       "valid": true
     },
     {
       "draw": 822,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": 0.0004884963766950692,
+      "difference": 0.0004884917746707968,
       "valid": true
     },
     {
       "draw": 823,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.00044410785263130725,
+      "difference": -0.00044412257698649604,
       "valid": true
     },
     {
       "draw": 824,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.003973234457002539,
+      "difference": -0.003973241337262927,
       "valid": true
     },
     {
       "draw": 825,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.0021683748603241694,
+      "difference": -0.002168387121868816,
       "valid": true
     },
     {
       "draw": 826,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0020132371158407807,
+      "difference": -0.0020132439122804405,
       "valid": true
     },
     {
       "draw": 827,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.002732952959866938,
+      "difference": -0.0027329664024692865,
       "valid": true
     },
     {
       "draw": 828,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": 0.0003612584840025455,
+      "difference": 0.00036124367624260117,
       "valid": true
     },
     {
       "draw": 829,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.004017231032569493,
+      "difference": -0.004017241968337797,
       "valid": true
     },
     {
       "draw": 830,
       "n_negative": 820,
       "n_positive": 829,
-      "difference": -0.0042037287669498945,
+      "difference": -0.004203736844286357,
       "valid": true
     },
     {
       "draw": 831,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": 0.0003297382548828068,
+      "difference": 0.00032973506321659423,
       "valid": true
     },
     {
       "draw": 832,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.003682313900222751,
+      "difference": -0.003682317282473524,
       "valid": true
     },
     {
       "draw": 833,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.00195713195182755,
+      "difference": -0.0019571470472520653,
       "valid": true
     },
     {
       "draw": 834,
       "n_negative": 873,
       "n_positive": 776,
-      "difference": -0.0053738773092422126,
+      "difference": -0.005373884966922493,
       "valid": true
     },
     {
       "draw": 835,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.003033962530915906,
+      "difference": -0.0030339756530161806,
       "valid": true
     },
     {
       "draw": 836,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.004072859176098864,
+      "difference": -0.004072871472750064,
       "valid": true
     },
     {
       "draw": 837,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.002059931210419909,
+      "difference": -0.0020599394212427674,
       "valid": true
     },
     {
       "draw": 838,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.006411110576726172,
+      "difference": -0.006411119162259049,
       "valid": true
     },
     {
       "draw": 839,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0009842429470925745,
+      "difference": -0.0009842492174597676,
       "valid": true
     },
     {
       "draw": 840,
       "n_negative": 804,
       "n_positive": 845,
-      "difference": -0.0023044705930068254,
+      "difference": -0.002304489017830264,
       "valid": true
     },
     {
       "draw": 841,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.003413078337013424,
+      "difference": -0.003413092518725358,
       "valid": true
     },
     {
       "draw": 842,
       "n_negative": 853,
       "n_positive": 796,
-      "difference": -0.002490496379613382,
+      "difference": -0.0024905060788872726,
       "valid": true
     },
     {
       "draw": 843,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0009053665000516564,
+      "difference": -0.0009053712220400331,
       "valid": true
     },
     {
       "draw": 844,
       "n_negative": 809,
       "n_positive": 840,
-      "difference": -0.0021988641087874296,
+      "difference": -0.0021988653252187312,
       "valid": true
     },
     {
       "draw": 845,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.0008077417299064578,
+      "difference": -0.000807755609826182,
       "valid": true
     },
     {
       "draw": 846,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.0029818662450951383,
+      "difference": -0.0029818843450714074,
       "valid": true
     },
     {
       "draw": 847,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.0035233591417782126,
+      "difference": -0.0035233784837327836,
       "valid": true
     },
     {
       "draw": 848,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.0037865191304186385,
+      "difference": -0.003786533864615004,
       "valid": true
     },
     {
       "draw": 849,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.0032777915567816836,
+      "difference": -0.0032778036064106267,
       "valid": true
     },
     {
       "draw": 850,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.002566611121817045,
+      "difference": -0.0025666286245632766,
       "valid": true
     },
     {
       "draw": 851,
       "n_negative": 819,
       "n_positive": 830,
-      "difference": -0.0013204065897837666,
+      "difference": -0.0013204177857582548,
       "valid": true
     },
     {
       "draw": 852,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.002927960782740172,
+      "difference": -0.0029279752029780265,
       "valid": true
     },
     {
       "draw": 853,
       "n_negative": 809,
       "n_positive": 840,
-      "difference": 3.055870781685111e-05,
+      "difference": 3.0545284323780326e-05,
       "valid": true
     },
     {
       "draw": 854,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.002563424314086439,
+      "difference": -0.002563445169602525,
       "valid": true
     },
     {
       "draw": 855,
       "n_negative": 838,
       "n_positive": 811,
-      "difference": -0.0023199169506988447,
+      "difference": -0.0023199309300798096,
       "valid": true
     },
     {
       "draw": 856,
       "n_negative": 878,
       "n_positive": 771,
-      "difference": -0.002683621099780615,
+      "difference": -0.002683638904439082,
       "valid": true
     },
     {
       "draw": 857,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.004791019361122662,
+      "difference": -0.004791034392742706,
       "valid": true
     },
     {
       "draw": 858,
       "n_negative": 884,
       "n_positive": 765,
-      "difference": -0.002138161286292561,
+      "difference": -0.002138170495094018,
       "valid": true
     },
     {
       "draw": 859,
       "n_negative": 875,
       "n_positive": 774,
-      "difference": -0.002262464049326641,
+      "difference": -0.0022624813688366784,
       "valid": true
     },
     {
       "draw": 860,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.003025788143101222,
+      "difference": -0.0030257940893288885,
       "valid": true
     },
     {
       "draw": 861,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.00047562443744773115,
+      "difference": -0.000475631829406503,
       "valid": true
     },
     {
       "draw": 862,
       "n_negative": 821,
       "n_positive": 828,
-      "difference": -0.0030728769284739813,
+      "difference": -0.0030728809792728387,
       "valid": true
     },
     {
       "draw": 863,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.001957506868024695,
+      "difference": -0.0019575145065674924,
       "valid": true
     },
     {
       "draw": 864,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.003140310265721466,
+      "difference": -0.003140311087178221,
       "valid": true
     },
     {
       "draw": 865,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.00030228682407614773,
+      "difference": -0.00030229797884122735,
       "valid": true
     },
     {
       "draw": 866,
       "n_negative": 821,
       "n_positive": 828,
-      "difference": 0.0001887999217544864,
+      "difference": 0.00018879373625265095,
       "valid": true
     },
     {
       "draw": 867,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0029078761945786104,
+      "difference": -0.002907882496439135,
       "valid": true
     },
     {
       "draw": 868,
       "n_negative": 879,
       "n_positive": 770,
-      "difference": -0.002620658686379736,
+      "difference": -0.002620676393614569,
       "valid": true
     },
     {
       "draw": 869,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -3.3959394257116826e-05,
+      "difference": -3.396946058450859e-05,
       "valid": true
     },
     {
       "draw": 870,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.0045620135003466905,
+      "difference": -0.004562014325614816,
       "valid": true
     },
     {
       "draw": 871,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": 0.0006422006567587868,
+      "difference": 0.0006421977835352859,
       "valid": true
     },
     {
       "draw": 872,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.002357067907264554,
+      "difference": -0.002357075364353438,
       "valid": true
     },
     {
       "draw": 873,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0005609494224898202,
+      "difference": -0.0005609564025291525,
       "valid": true
     },
     {
       "draw": 874,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": 0.0005561351931783232,
+      "difference": 0.0005561282829443323,
       "valid": true
     },
     {
       "draw": 875,
       "n_negative": 837,
       "n_positive": 812,
-      "difference": -0.001866512301664448,
+      "difference": -0.0018665194343177155,
       "valid": true
     },
     {
       "draw": 876,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.005005664824552124,
+      "difference": -0.005005680489362737,
       "valid": true
     },
     {
       "draw": 877,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.003415505965603695,
+      "difference": -0.0034155180565802884,
       "valid": true
     },
     {
       "draw": 878,
       "n_negative": 863,
       "n_positive": 786,
-      "difference": -0.0007877154689009939,
+      "difference": -0.0007877200049899341,
       "valid": true
     },
     {
       "draw": 879,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.003640292316278833,
+      "difference": -0.0036403060610264056,
       "valid": true
     },
     {
       "draw": 880,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": -0.0023369573294615593,
+      "difference": -0.002336965277720702,
       "valid": true
     },
     {
       "draw": 881,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.0028367521358534952,
+      "difference": -0.0028367681272115867,
       "valid": true
     },
     {
       "draw": 882,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": 0.0006847518149590943,
+      "difference": 0.0006847436364339232,
       "valid": true
     },
     {
       "draw": 883,
       "n_negative": 780,
       "n_positive": 869,
-      "difference": -0.0005281974916367679,
+      "difference": -0.0005282099744196977,
       "valid": true
     },
     {
       "draw": 884,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.00029890957970411954,
+      "difference": -0.0002989153949927182,
       "valid": true
     },
     {
       "draw": 885,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0027252935658504227,
+      "difference": -0.0027253064253172643,
       "valid": true
     },
     {
       "draw": 886,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.0029609378226197027,
+      "difference": -0.00296094487606188,
       "valid": true
     },
     {
       "draw": 887,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0005770395359805153,
+      "difference": -0.0005770400948972129,
       "valid": true
     },
     {
       "draw": 888,
       "n_negative": 841,
       "n_positive": 808,
-      "difference": -0.0038087196298118575,
+      "difference": -0.003808733904146067,
       "valid": true
     },
     {
       "draw": 889,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.004255583868050068,
+      "difference": -0.004255592328470994,
       "valid": true
     },
     {
       "draw": 890,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.0025962396412802925,
+      "difference": -0.0025962382361819636,
       "valid": true
     },
     {
       "draw": 891,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -0.005398324462864373,
+      "difference": -0.005398330683353652,
       "valid": true
     },
     {
       "draw": 892,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.003715475210284421,
+      "difference": -0.0037154989192198073,
       "valid": true
     },
     {
       "draw": 893,
       "n_negative": 806,
       "n_positive": 843,
-      "difference": -0.0003370929162910993,
+      "difference": -0.0003371029884371345,
       "valid": true
     },
     {
       "draw": 894,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.0001919497355237617,
+      "difference": -0.0001919521995153808,
       "valid": true
     },
     {
       "draw": 895,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.00647065890082804,
+      "difference": -0.006470679595348165,
       "valid": true
     },
     {
       "draw": 896,
       "n_negative": 822,
       "n_positive": 827,
-      "difference": -0.002055803233657145,
+      "difference": -0.002055816996201293,
       "valid": true
     },
     {
       "draw": 897,
       "n_negative": 845,
       "n_positive": 804,
-      "difference": -0.00260450413591308,
+      "difference": -0.0026045056323744107,
       "valid": true
     },
     {
       "draw": 898,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0021721718645918847,
+      "difference": -0.0021721891384818663,
       "valid": true
     },
     {
       "draw": 899,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.00020182216567676868,
+      "difference": -0.0002018232107343402,
       "valid": true
     },
     {
       "draw": 900,
       "n_negative": 878,
       "n_positive": 771,
-      "difference": -0.002911059251660876,
+      "difference": -0.0029110657561919146,
       "valid": true
     },
     {
       "draw": 901,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -0.003797431870497693,
+      "difference": -0.003797443689598542,
       "valid": true
     },
     {
       "draw": 902,
       "n_negative": 865,
       "n_positive": 784,
-      "difference": -0.0017561084608159814,
+      "difference": -0.0017561152238933313,
       "valid": true
     },
     {
       "draw": 903,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.003589415151611997,
+      "difference": -0.0035894256044038293,
       "valid": true
     },
     {
       "draw": 904,
       "n_negative": 809,
       "n_positive": 840,
-      "difference": -0.0044842769581055,
+      "difference": -0.004484286458273373,
       "valid": true
     },
     {
       "draw": 905,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.00035795169791719595,
+      "difference": -0.0003579635662184033,
       "valid": true
     },
     {
       "draw": 906,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.005408384541035027,
+      "difference": -0.00540840500165351,
       "valid": true
     },
     {
       "draw": 907,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.0032712152842345743,
+      "difference": -0.003271222770004894,
       "valid": true
     },
     {
       "draw": 908,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.0007554908747808538,
+      "difference": -0.00075550040660145,
       "valid": true
     },
     {
       "draw": 909,
       "n_negative": 807,
       "n_positive": 842,
-      "difference": -0.0006978503329142233,
+      "difference": -0.0006978637327411528,
       "valid": true
     },
     {
       "draw": 910,
       "n_negative": 861,
       "n_positive": 788,
-      "difference": -0.0021591909137057023,
+      "difference": -0.0021592016707700857,
       "valid": true
     },
     {
       "draw": 911,
       "n_negative": 812,
       "n_positive": 837,
-      "difference": -0.003102071474625522,
+      "difference": -0.003102077387968382,
       "valid": true
     },
     {
       "draw": 912,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.003426801243309064,
+      "difference": -0.0034268179696509997,
       "valid": true
     },
     {
       "draw": 913,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0038762482957558743,
+      "difference": -0.0038762630946467002,
       "valid": true
     },
     {
       "draw": 914,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.0060779899370085365,
+      "difference": -0.006078001195964276,
       "valid": true
     },
     {
       "draw": 915,
       "n_negative": 825,
       "n_positive": 824,
-      "difference": -9.976734452078512e-05,
+      "difference": -9.977538725214515e-05,
       "valid": true
     },
     {
       "draw": 916,
       "n_negative": 803,
       "n_positive": 846,
-      "difference": -0.0016011998398732798,
+      "difference": -0.001601209763195352,
       "valid": true
     },
     {
       "draw": 917,
       "n_negative": 839,
       "n_positive": 810,
-      "difference": -0.0013708474024074426,
+      "difference": -0.0013708580862747117,
       "valid": true
     },
     {
       "draw": 918,
       "n_negative": 855,
       "n_positive": 794,
-      "difference": -0.001789133189051453,
+      "difference": -0.0017891486397891715,
       "valid": true
     },
     {
       "draw": 919,
       "n_negative": 880,
       "n_positive": 769,
-      "difference": -0.004945917585765614,
+      "difference": -0.004945922022242659,
       "valid": true
     },
     {
       "draw": 920,
       "n_negative": 860,
       "n_positive": 789,
-      "difference": -0.0007745427115403562,
+      "difference": -0.0007745494609410229,
       "valid": true
     },
     {
       "draw": 921,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.0007081597288520104,
+      "difference": -0.0007081688559521149,
       "valid": true
     },
     {
       "draw": 922,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.0033534107349412223,
+      "difference": -0.0033534240570990796,
       "valid": true
     },
     {
       "draw": 923,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.004728104939556478,
+      "difference": -0.004728115165392755,
       "valid": true
     },
     {
       "draw": 924,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0013476102328762013,
+      "difference": -0.0013476206517168663,
       "valid": true
     },
     {
       "draw": 925,
       "n_negative": 849,
       "n_positive": 800,
-      "difference": -9.604995637072932e-05,
+      "difference": -9.60574504485993e-05,
       "valid": true
     },
     {
       "draw": 926,
       "n_negative": 824,
       "n_positive": 825,
-      "difference": -0.003207155135730353,
+      "difference": -0.0032071679509593745,
       "valid": true
     },
     {
       "draw": 927,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0030223415619874796,
+      "difference": -0.0030223547858874078,
       "valid": true
     },
     {
       "draw": 928,
       "n_negative": 888,
       "n_positive": 761,
-      "difference": -8.246541143838563e-05,
+      "difference": -8.247735900749047e-05,
       "valid": true
     },
     {
       "draw": 929,
       "n_negative": 862,
       "n_positive": 787,
-      "difference": -0.004303813547341749,
+      "difference": -0.004303828144128548,
       "valid": true
     },
     {
       "draw": 930,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.0036713880467686504,
+      "difference": -0.003671395797031808,
       "valid": true
     },
     {
       "draw": 931,
       "n_negative": 830,
       "n_positive": 819,
-      "difference": -0.0028613055049017846,
+      "difference": -0.0028613120874419477,
       "valid": true
     },
     {
       "draw": 932,
       "n_negative": 823,
       "n_positive": 826,
-      "difference": -0.0033452316522378333,
+      "difference": -0.0033452416025337847,
       "valid": true
     },
     {
       "draw": 933,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0019602728462300234,
+      "difference": -0.001960280402747475,
       "valid": true
     },
     {
       "draw": 934,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.0027558235396827574,
+      "difference": -0.002755834105041735,
       "valid": true
     },
     {
       "draw": 935,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.006091700419691895,
+      "difference": -0.006091722629380016,
       "valid": true
     },
     {
       "draw": 936,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0018490832185770168,
+      "difference": -0.0018490963387484468,
       "valid": true
     },
     {
       "draw": 937,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.002882427288701341,
+      "difference": -0.0028824500735166593,
       "valid": true
     },
     {
       "draw": 938,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.004827195870362152,
+      "difference": -0.004827200002982415,
       "valid": true
     },
     {
       "draw": 939,
       "n_negative": 857,
       "n_positive": 792,
-      "difference": -0.00105633414889173,
+      "difference": -0.0010563386704515068,
       "valid": true
     },
     {
       "draw": 940,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0026592230731668034,
+      "difference": -0.002659233176653426,
       "valid": true
     },
     {
       "draw": 941,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.0011036562150229425,
+      "difference": -0.001103659803221505,
       "valid": true
     },
     {
       "draw": 942,
       "n_negative": 865,
       "n_positive": 784,
-      "difference": -0.004168500923120994,
+      "difference": -0.004168505184082711,
       "valid": true
     },
     {
       "draw": 943,
       "n_negative": 850,
       "n_positive": 799,
-      "difference": -0.0013161083768858843,
+      "difference": -0.0013161248551493347,
       "valid": true
     },
     {
       "draw": 944,
       "n_negative": 818,
       "n_positive": 831,
-      "difference": -0.003359748990775825,
+      "difference": -0.003359757215318701,
       "valid": true
     },
     {
       "draw": 945,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.005508831459984905,
+      "difference": -0.005508843445195933,
       "valid": true
     },
     {
       "draw": 946,
       "n_negative": 876,
       "n_positive": 773,
-      "difference": -0.000734509078049597,
+      "difference": -0.0007345194647777025,
       "valid": true
     },
     {
       "draw": 947,
       "n_negative": 817,
       "n_positive": 832,
-      "difference": -0.0018754009896768046,
+      "difference": -0.0018754215838505627,
       "valid": true
     },
     {
       "draw": 948,
       "n_negative": 848,
       "n_positive": 801,
-      "difference": -0.0030485178737271177,
+      "difference": -0.003048524640540355,
       "valid": true
     },
     {
       "draw": 949,
       "n_negative": 846,
       "n_positive": 803,
-      "difference": -0.0012887168814802962,
+      "difference": -0.0012887252615388515,
       "valid": true
     },
     {
       "draw": 950,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.0018194156217033399,
+      "difference": -0.0018194177946330324,
       "valid": true
     },
     {
       "draw": 951,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0009558248223129606,
+      "difference": -0.0009558357285799169,
       "valid": true
     },
     {
       "draw": 952,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.0007116331781670741,
+      "difference": -0.0007116463315730996,
       "valid": true
     },
     {
       "draw": 953,
       "n_negative": 799,
       "n_positive": 850,
-      "difference": -0.0026635652276838827,
+      "difference": -0.0026635824766365916,
       "valid": true
     },
     {
       "draw": 954,
       "n_negative": 816,
       "n_positive": 833,
-      "difference": -0.002564163749637833,
+      "difference": -0.0025641748122333732,
       "valid": true
     },
     {
       "draw": 955,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0026880361839873076,
+      "difference": -0.0026880442694250874,
       "valid": true
     },
     {
       "draw": 956,
       "n_negative": 800,
       "n_positive": 849,
-      "difference": -0.0015371229780005748,
+      "difference": -0.0015371404874507488,
       "valid": true
     },
     {
       "draw": 957,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0015837695264615636,
+      "difference": -0.0015837846397078205,
       "valid": true
     },
     {
       "draw": 958,
       "n_negative": 868,
       "n_positive": 781,
-      "difference": -0.0021302277266826482,
+      "difference": -0.0021302430048799476,
       "valid": true
     },
     {
       "draw": 959,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -0.003639604102632486,
+      "difference": -0.0036396206914097754,
       "valid": true
     },
     {
       "draw": 960,
       "n_negative": 852,
       "n_positive": 797,
-      "difference": -2.0336691065158037e-05,
+      "difference": -2.033924688689989e-05,
       "valid": true
     },
     {
       "draw": 961,
       "n_negative": 867,
       "n_positive": 782,
-      "difference": -0.0020385215020204874,
+      "difference": -0.002038534197803931,
       "valid": true
     },
     {
       "draw": 962,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.0028547529758962964,
+      "difference": -0.002854766117529753,
       "valid": true
     },
     {
       "draw": 963,
       "n_negative": 886,
       "n_positive": 763,
-      "difference": -0.0020256591653578706,
+      "difference": -0.002025669516555539,
       "valid": true
     },
     {
       "draw": 964,
       "n_negative": 829,
       "n_positive": 820,
-      "difference": -0.0013491926957001315,
+      "difference": -0.0013491909994820443,
       "valid": true
     },
     {
       "draw": 965,
       "n_negative": 815,
       "n_positive": 834,
-      "difference": 0.0005732870885955732,
+      "difference": 0.0005732833945159235,
       "valid": true
     },
     {
       "draw": 966,
       "n_negative": 835,
       "n_positive": 814,
-      "difference": -0.001688240856324259,
+      "difference": -0.0016882442853874018,
       "valid": true
     },
     {
       "draw": 967,
       "n_negative": 781,
       "n_positive": 868,
-      "difference": -0.0016790702546824166,
+      "difference": -0.001679085655216133,
       "valid": true
     },
     {
       "draw": 968,
       "n_negative": 831,
       "n_positive": 818,
-      "difference": -0.0010220790368850347,
+      "difference": -0.0010220844241137015,
       "valid": true
     },
     {
       "draw": 969,
       "n_negative": 864,
       "n_positive": 785,
-      "difference": -0.0025911620943373475,
+      "difference": -0.0025911730643409328,
       "valid": true
     },
     {
       "draw": 970,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.0010466884351997684,
+      "difference": -0.0010466994643360743,
       "valid": true
     },
     {
       "draw": 971,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0048782559824316115,
+      "difference": -0.004878273517968041,
       "valid": true
     },
     {
       "draw": 972,
       "n_negative": 856,
       "n_positive": 793,
-      "difference": -0.0041880170576454115,
+      "difference": -0.004188045266220519,
       "valid": true
     },
     {
       "draw": 973,
       "n_negative": 832,
       "n_positive": 817,
-      "difference": -0.003668626517843881,
+      "difference": -0.00366863245575087,
       "valid": true
     },
     {
       "draw": 974,
       "n_negative": 808,
       "n_positive": 841,
-      "difference": -0.003974070015513566,
+      "difference": -0.003974079850599468,
       "valid": true
     },
     {
       "draw": 975,
       "n_negative": 821,
       "n_positive": 828,
-      "difference": -0.0018103777629668095,
+      "difference": -0.0018103849823059037,
       "valid": true
     },
     {
       "draw": 976,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0016434025755113955,
+      "difference": -0.0016434136002269977,
       "valid": true
     },
     {
       "draw": 977,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.0017035017993098551,
+      "difference": -0.0017035071472727551,
       "valid": true
     },
     {
       "draw": 978,
       "n_negative": 797,
       "n_positive": 852,
-      "difference": -0.00303064004363741,
+      "difference": -0.0030306606402300046,
       "valid": true
     },
     {
       "draw": 979,
       "n_negative": 861,
       "n_positive": 788,
-      "difference": -0.0028514549245030715,
+      "difference": -0.0028514601190604612,
       "valid": true
     },
     {
       "draw": 980,
       "n_negative": 854,
       "n_positive": 795,
-      "difference": -0.0012709204729286802,
+      "difference": -0.0012709345244404605,
       "valid": true
     },
     {
       "draw": 981,
       "n_negative": 821,
       "n_positive": 828,
-      "difference": -0.0002710506107053358,
+      "difference": -0.0002710578146465835,
       "valid": true
     },
     {
       "draw": 982,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.0015369945962393546,
+      "difference": -0.0015370115008327082,
       "valid": true
     },
     {
       "draw": 983,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.002426747837345173,
+      "difference": -0.002426749763040044,
       "valid": true
     },
     {
       "draw": 984,
       "n_negative": 828,
       "n_positive": 821,
-      "difference": -0.00552906179111818,
+      "difference": -0.005529080178187645,
       "valid": true
     },
     {
       "draw": 985,
       "n_negative": 865,
       "n_positive": 784,
-      "difference": -0.002359523151297921,
+      "difference": -0.00235953285500672,
       "valid": true
     },
     {
       "draw": 986,
       "n_negative": 842,
       "n_positive": 807,
-      "difference": -0.0052954668334424465,
+      "difference": -0.005295481989969607,
       "valid": true
     },
     {
       "draw": 987,
       "n_negative": 869,
       "n_positive": 780,
-      "difference": -0.0019676682279903233,
+      "difference": -0.0019676716679976987,
       "valid": true
     },
     {
       "draw": 988,
       "n_negative": 847,
       "n_positive": 802,
-      "difference": -0.0036146764122772968,
+      "difference": -0.003614688430624968,
       "valid": true
     },
     {
       "draw": 989,
       "n_negative": 826,
       "n_positive": 823,
-      "difference": -0.0006211722638317975,
+      "difference": -0.000621174225510968,
       "valid": true
     },
     {
       "draw": 990,
       "n_negative": 874,
       "n_positive": 775,
-      "difference": -0.006120509076214353,
+      "difference": -0.006120519355311876,
       "valid": true
     },
     {
       "draw": 991,
       "n_negative": 836,
       "n_positive": 813,
-      "difference": -0.003824927676520842,
+      "difference": -0.0038249428070022545,
       "valid": true
     },
     {
       "draw": 992,
       "n_negative": 834,
       "n_positive": 815,
-      "difference": -0.004796452863325857,
+      "difference": -0.004796467833412302,
       "valid": true
     },
     {
       "draw": 993,
       "n_negative": 851,
       "n_positive": 798,
-      "difference": -0.0035212954115268215,
+      "difference": -0.0035212991533899703,
       "valid": true
     },
     {
       "draw": 994,
       "n_negative": 844,
       "n_positive": 805,
-      "difference": -0.0007247895486222545,
+      "difference": -0.0007248001726996477,
       "valid": true
     },
     {
       "draw": 995,
       "n_negative": 843,
       "n_positive": 806,
-      "difference": -0.004672420093944137,
+      "difference": -0.004672437043177009,
       "valid": true
     },
     {
       "draw": 996,
       "n_negative": 819,
       "n_positive": 830,
-      "difference": -0.0037889280912841525,
+      "difference": -0.0037889397824118704,
       "valid": true
     },
     {
       "draw": 997,
       "n_negative": 840,
       "n_positive": 809,
-      "difference": -0.0009451263384920827,
+      "difference": -0.0009451332218786729,
       "valid": true
     },
     {
       "draw": 998,
       "n_negative": 888,
       "n_positive": 761,
-      "difference": -0.003326221983238479,
+      "difference": -0.0033262380509709102,
       "valid": true
     },
     {
       "draw": 999,
       "n_negative": 858,
       "n_positive": 791,
-      "difference": -0.00044670359378274336,
+      "difference": -0.00044670806718162537,
       "valid": true
     }
   ],
   "interval_95": [
-    -0.005525677520136649,
-    0.00027977955884398874
+    -0.005525690119412817,
+    0.0002797824027375641
   ],
   "interval_status": "CONDITIONAL_BENCHMARK_INTERVAL"
 }

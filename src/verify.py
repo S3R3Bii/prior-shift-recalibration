@@ -90,23 +90,37 @@ def check_fit(fit, x, y, w, alpha, counters, bounds=None):
             points.append(correction)
             points.extend(correction["line_trials"])
             assert len(correction["line_trials"]) <= 20
-            accepted = [trial for trial in correction["line_trials"] if trial["accepted"]]
+            accepted = [
+                trial for trial in correction["line_trials"] if trial["accepted"]
+            ]
             assert len(accepted) <= 1
             if accepted:
                 assert accepted[0]["objective"] <= correction["objective"] + 2e-15
-                assert accepted[0]["projected_gradient_inf"] < correction["projected_gradient_inf"]
+                assert (
+                    accepted[0]["projected_gradient_inf"]
+                    < correction["projected_gradient_inf"]
+                )
         for point in points:
             point_beta = np.array(point["coefficients"])
             point_eta = vector_logits(x, point_beta)
-            point_value = loss(point_eta, y, w) + alpha * math.fsum(float(c) ** 2 for c in point_beta[:-1]) / 2
+            point_value = (
+                loss(point_eta, y, w)
+                + alpha * math.fsum(float(c) ** 2 for c in point_beta[:-1]) / 2
+            )
             close(point_value, point["objective"])
             point_gradient = x.T @ (w * (expit(point_eta) - y))
             point_gradient[:-1] += alpha * point_beta[:-1]
-            point_residual = kkt_residual(point_beta, point_gradient, bounds) if bounds else max(abs(point_gradient))
+            point_residual = (
+                kkt_residual(point_beta, point_gradient, bounds)
+                if bounds
+                else max(abs(point_gradient))
+            )
             if "projected_gradient_inf" in point:
                 close(point_residual, point["projected_gradient_inf"])
             if bounds is not None:
-                assert all(lower <= v <= upper for v, (lower, upper) in zip(point_beta, bounds))
+                assert all(
+                    lower <= v <= upper for v, (lower, upper) in zip(point_beta, bounds)
+                )
         close(attempt["newton_trace"][-1]["coefficients"], beta)
         assert attempt["newton_trace"][-1]["projected_gradient_inf"] <= 1e-12
         minimum_eigenvalue = float(np.linalg.eigvalsh((hessian + hessian.T) / 2)[0])

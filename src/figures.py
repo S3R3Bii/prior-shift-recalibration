@@ -68,7 +68,7 @@ fig.suptitle(
 fig.text(
     0.07,
     0.89,
-    "CONTROLLED PRIOR-SHIFT SCENARIOS  |  supplied positive prevalence q = 1%",
+    "CONTROLLED PRIOR-SHIFT SCENARIOS  |  N1 corrected retrospective  |  supplied prevalence q = 1%",
     fontsize=10,
     color="#56616D",
 )
@@ -121,7 +121,7 @@ fig.suptitle(
 fig.text(
     0.07,
     0.89,
-    "CONTROLLED PRIOR-SHIFT SCENARIOS  |  q = 1%  |  paired test log-loss difference",
+    "CONTROLLED PRIOR-SHIFT SCENARIOS  |  N1 corrected retrospective  |  q = 1% paired log-loss difference",
     fontsize=10,
     color="#56616D",
 )
@@ -160,7 +160,7 @@ fig.suptitle(
 fig.text(
     0.07,
     0.89,
-    "CONTROLLED PRIOR-SHIFT SCENARIOS  |  hypothetical FP cost 10, FN cost 1; alert at p ≥ 10/11",
+    "CONTROLLED PRIOR-SHIFT SCENARIOS  |  N1 corrected retrospective  |  FP cost 10, FN cost 1; alert p ≥ 10/11",
     fontsize=10,
     color="#56616D",
 )
