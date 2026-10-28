@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "formatter": "Black25.1.0 private tool",
+  "files": [
+    {
+      "path": "src/experiment.py",
+      "sha256": "613f8e31871e0b031413fe14138b8c628fd026f17ed30823fbf609aa5224378d",
+      "exact_ast_equal": true
+    },
+    {
+      "path": "src/fetch.py",
+      "sha256": "bd046f3f67179e9fbaf7f77e6d801394b2f2053327f58154ec0bbfb13c7e497b",
+      "exact_ast_equal": true
+    },
+    {
+      "path": "src/model.py",
+      "sha256": "b345323593fa88324a73be5633ceea804d8b0d332f399d76653d203949aca12a",
+      "exact_ast_equal": true
+    },
+    {
+      "path": "src/verify.py",
+      "sha256": "cf97c60923287669da4b24eb415b0edd98ede0a4e910b957c4b802e52d585e66",
+      "exact_ast_equal": true
+    },
+    {
+      "path": "src/verify_sources.py",
+      "sha256": "0e2840363625d5bacc9bc6238d8d3aba289db828f8d2d75a6c7aa45df65a654b",
+      "exact_ast_equal": true
+    },
+    {
+      "path": "tests/test_contracts.py",
+      "sha256": "342e0bd015b6732ad208aa571aba7b538a1fa5fce6754fcf59187207418210ce",
+      "exact_ast_equal": true
+    }
+  ]
+}

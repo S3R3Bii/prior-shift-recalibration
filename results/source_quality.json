@@ -1,0 +1,36 @@
+{
+  "status": "SOURCE_PANELS_READY_FOR_INDEPENDENT_RECONCILIATION",
+  "datasets": {
+    "44125": {
+      "source_rows": 13376,
+      "exact_full_row_value_duplicates_removed": 115,
+      "distinct_full_rows": 13261,
+      "selected_rows": 8000,
+      "selected_feature_groups": 8000,
+      "selected_class_counts": {
+        "1": 4041,
+        "0": 3959
+      },
+      "conflicting_label_feature_groups": 0,
+      "feature_count": 10,
+      "selected_values_below_minus900": 0,
+      "extreme_value_policy": "Retained as supplied; no unverified sentinel interpretation or outcome-based cleaning"
+    },
+    "44128": {
+      "source_rows": 72998,
+      "exact_full_row_value_duplicates_removed": 171,
+      "distinct_full_rows": 72827,
+      "selected_rows": 8000,
+      "selected_feature_groups": 8000,
+      "selected_class_counts": {
+        "1": 4044,
+        "0": 3956
+      },
+      "conflicting_label_feature_groups": 0,
+      "feature_count": 50,
+      "selected_values_below_minus900": 0,
+      "extreme_value_policy": "Retained as supplied; no unverified sentinel interpretation or outcome-based cleaning"
+    }
+  },
+  "scope": "Controlled benchmark derivatives; no deployment prevalence or new physical measurement"
+}
