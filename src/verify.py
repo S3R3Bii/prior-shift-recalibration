@@ -23,11 +23,13 @@ def vector_logits(x, beta):
 
 
 def independent_weights(y, q=None):
+    n_positive = int(np.sum(y == 1))
+    n_negative = len(y) - n_positive
     return (
         np.ones(len(y)) / len(y)
         if q is None
         else np.array(
-            [q / sum(y == 1) if value else (1 - q) / sum(y == 0) for value in y]
+            [q / n_positive if value else (1 - q) / n_negative for value in y]
         )
     )
 
