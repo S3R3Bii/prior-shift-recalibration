@@ -173,7 +173,9 @@ def train(root):
     write_json(
         root / "results/freeze.json",
         {
-            "state": "FROZEN_BEFORE_TEST",
+            "state": "CORRECTED_RETROSPECTIVE_FROZEN_BEFORE_RESCORING",
+            "test_reuse": True,
+            "correction": "N1 numerical convergence repair after original test and failed coefficient replay; selection grid, splits, costs and tolerances unchanged",
             "model_hashes": hashes,
             "selection_sha256": hashlib.sha256(
                 (root / "results/selection.json").read_bytes()
@@ -248,7 +250,7 @@ def bootstrap(frame, odds_eta, refit_eta, seed):
 
 def test(root):
     freeze = json.loads((root / "results/freeze.json").read_bytes())
-    assert freeze["state"] == "FROZEN_BEFORE_TEST"
+    assert freeze["state"] == "CORRECTED_RETROSPECTIVE_FROZEN_BEFORE_RESCORING"
     certificate = json.loads(
         (root / "results/INDEPENDENT_TRAIN_CHECK.json").read_bytes()
     )

@@ -3,70 +3,70 @@
     "dataset": 44125,
     "seed": 101,
     "selected_alpha": 0.001,
-    "validation_log_loss": 0.5054121280149606,
+    "validation_log_loss": 0.5054121292352055,
     "boundary_alpha": false
   },
   {
     "dataset": 44125,
     "seed": 202,
     "selected_alpha": 0.001,
-    "validation_log_loss": 0.510351129032988,
+    "validation_log_loss": 0.510351127403915,
     "boundary_alpha": false
   },
   {
     "dataset": 44125,
     "seed": 303,
     "selected_alpha": 0.0001,
-    "validation_log_loss": 0.5019128844402534,
+    "validation_log_loss": 0.5019128864064888,
     "boundary_alpha": true
   },
   {
     "dataset": 44125,
     "seed": 404,
     "selected_alpha": 0.001,
-    "validation_log_loss": 0.49324938906955446,
+    "validation_log_loss": 0.49324938804898677,
     "boundary_alpha": false
   },
   {
     "dataset": 44125,
     "seed": 505,
     "selected_alpha": 0.0001,
-    "validation_log_loss": 0.48049135591155145,
+    "validation_log_loss": 0.48049135716144076,
     "boundary_alpha": true
   },
   {
     "dataset": 44128,
     "seed": 101,
     "selected_alpha": 0.001,
-    "validation_log_loss": 0.25879446681513435,
+    "validation_log_loss": 0.25879446130754075,
     "boundary_alpha": false
   },
   {
     "dataset": 44128,
     "seed": 202,
     "selected_alpha": 0.0001,
-    "validation_log_loss": 0.24487512382820448,
+    "validation_log_loss": 0.24487512629481628,
     "boundary_alpha": true
   },
   {
     "dataset": 44128,
     "seed": 303,
     "selected_alpha": 0.0001,
-    "validation_log_loss": 0.2510699580345638,
+    "validation_log_loss": 0.25106996324193687,
     "boundary_alpha": true
   },
   {
     "dataset": 44128,
     "seed": 404,
     "selected_alpha": 0.0001,
-    "validation_log_loss": 0.2620122161218522,
+    "validation_log_loss": 0.26201223127712875,
     "boundary_alpha": true
   },
   {
     "dataset": 44128,
     "seed": 505,
     "selected_alpha": 0.0001,
-    "validation_log_loss": 0.27718475901392986,
+    "validation_log_loss": 0.2771847511101881,
     "boundary_alpha": true
   }
 ]
